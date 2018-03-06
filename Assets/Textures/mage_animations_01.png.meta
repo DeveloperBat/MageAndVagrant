@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: 5348ce01851b47a4797e54c713d2f5b3
+timeCreated: 1520256500
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flp_blink_dissapear-FLP-Blink-01
+    21300002: flp_blink_dissapear-FLP-Blink-02
+    21300004: flp_blink_dissapear-FLP-Blink-03
+    21300006: flp_blink_dissapear-FLP-Blink-04
+    21300008: flp_blink_dissapear-FLP-Blink-05
+    21300010: flp_blink_dissapear-FLP-Blink-06
+    21300012: flp_blink_dissapear-FLP-Blink-07
+    21300014: flp_blink_dissapear-FLP-Blink-08
+    21300016: flp_blink_dissapear-FLP-Blink-09
+    21300018: flp_mage_appear-flp_mage_blink_appear_01
+    21300020: flp_mage_appear-flp_mage_blink_appear_02
+    21300022: flp_mage_appear-flp_mage_blink_appear_03
+    21300024: flp_mage_appear-flp_mage_blink_appear_04
+    21300026: mage_appear-mage_blink_appear_01
+    21300028: mage_appear-mage_blink_appear_02
+    21300030: mage_appear-mage_blink_appear_03
+    21300032: mage_appear-mage_blink_appear_04
+    21300034: mage_blink_dissapear-Blink-01
+    21300036: mage_blink_dissapear-Blink-02
+    21300038: mage_blink_dissapear-Blink-03
+    21300040: mage_blink_dissapear-Blink-04
+    21300042: mage_blink_dissapear-Blink-05
+    21300044: mage_blink_dissapear-Blink-06
+    21300046: mage_blink_dissapear-Blink-07
+    21300048: mage_blink_dissapear-Blink-08
+    21300050: mage_blink_dissapear-Blink-09
+    21300052: Mage_fall-flp_mage_fall_body-flp_mage_ fall_body_01
+    21300054: Mage_fall-flp_mage_fall_body-flp_mage_ fall_body_02
+    21300056: Mage_fall-flp_mage_fall_body-flp_mage_ fall_body_03
+    21300058: Mage_fall-flp_mage_fall_legs-flp_mage_fall_legs_cropped_01
+    21300060: Mage_fall-flp_mage_fall_legs-flp_mage_fall_legs_cropped_02
+    21300062: Mage_fall-flp_mage_fall_legs-flp_mage_fall_legs_cropped_03
+    21300064: Mage_fall-mage_fall_body-Mage fall_body_01
+    21300066: Mage_fall-mage_fall_body-Mage fall_body_02
+    21300068: Mage_fall-mage_fall_body-Mage fall_body_03
+    21300070: Mage_fall-mage_fall_legs-Mage fall_legs_cropped_01
+    21300072: Mage_fall-mage_fall_legs-Mage fall_legs_cropped_02
+    21300074: Mage_fall-mage_fall_legs-Mage fall_legs_cropped_03
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flp_blink_dissapear-FLP-Blink-01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 1049
+        height: 860
+      alignment: 9
+      pivot: {x: 0.16777883, y: 0.6534884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_blink_dissapear-FLP-Blink-02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6615
+        width: 1566
+        height: 957
+      alignment: 9
+      pivot: {x: 0.36526182, y: 0.7408568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_blink_dissapear-FLP-Blink-03
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 5670
+        width: 1542
+        height: 1144
+      alignment: 9
+      pivot: {x: 0.6439689, y: 0.38548952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_blink_dissapear-FLP-Blink-04
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 5361
+        width: 1225
+        height: 846
+      alignment: 9
+      pivot: {x: 0.5559184, y: 0.47281325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_blink_dissapear-FLP-Blink-05
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1574
+        width: 1123
+        height: 732
+      alignment: 9
+      pivot: {x: 0.46571684, y: 0.51502734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_blink_dissapear-FLP-Blink-06
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 6079
+        width: 685
+        height: 735
+      alignment: 9
+      pivot: {x: 0.10072993, y: 0.54013604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_blink_dissapear-FLP-Blink-07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1331
+        width: 1188
+        height: 975
+      alignment: 9
+      pivot: {x: 0.3442761, y: 0.57641023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_blink_dissapear-FLP-Blink-08
+      rect:
+        serializedVersion: 2
+        x: 6917
+        y: 7201
+        width: 1259
+        height: 990
+      alignment: 9
+      pivot: {x: 0.3463066, y: 0.56060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_blink_dissapear-FLP-Blink-09
+      rect:
+        serializedVersion: 2
+        x: 5473
+        y: 2735
+        width: 1223
+        height: 931
+      alignment: 9
+      pivot: {x: 0.31725267, y: 0.5273899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_mage_appear-flp_mage_blink_appear_01
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 3572
+        width: 1282
+        height: 675
+      alignment: 9
+      pivot: {x: 0.34711388, y: 0.5933333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_mage_appear-flp_mage_blink_appear_02
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 3877
+        width: 1292
+        height: 634
+      alignment: 9
+      pivot: {x: 0.31811145, y: 0.5670347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_mage_appear-flp_mage_blink_appear_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7574
+        width: 1735
+        height: 617
+      alignment: 9
+      pivot: {x: 0.50778097, y: 0.58265805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_mage_appear-flp_mage_blink_appear_04
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 6816
+        width: 1719
+        height: 1375
+      alignment: 9
+      pivot: {x: 0.5026178, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_appear-mage_blink_appear_01
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 3572
+        width: 1282
+        height: 675
+      alignment: 9
+      pivot: {x: 0.6528861, y: 0.5933333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_appear-mage_blink_appear_02
+      rect:
+        serializedVersion: 2
+        x: 6795
+        y: 3241
+        width: 1292
+        height: 634
+      alignment: 9
+      pivot: {x: 0.6818885, y: 0.5670347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_appear-mage_blink_appear_03
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 7574
+        width: 1735
+        height: 617
+      alignment: 9
+      pivot: {x: 0.49221903, y: 0.58265805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_appear-mage_blink_appear_04
+      rect:
+        serializedVersion: 2
+        x: 5196
+        y: 6816
+        width: 1719
+        height: 1375
+      alignment: 9
+      pivot: {x: 0.4973822, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_blink_dissapear-Blink-01
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 469
+        width: 1049
+        height: 860
+      alignment: 9
+      pivot: {x: 0.83222115, y: 0.6534884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_blink_dissapear-Blink-02
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 6615
+        width: 1566
+        height: 957
+      alignment: 9
+      pivot: {x: 0.6347382, y: 0.7408568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_blink_dissapear-Blink-03
+      rect:
+        serializedVersion: 2
+        x: 4681
+        y: 5670
+        width: 1542
+        height: 1144
+      alignment: 9
+      pivot: {x: 0.35603112, y: 0.38548952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_blink_dissapear-Blink-04
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 4513
+        width: 1225
+        height: 846
+      alignment: 9
+      pivot: {x: 0.44408163, y: 0.47281325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_blink_dissapear-Blink-05
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 2327
+        width: 1123
+        height: 732
+      alignment: 9
+      pivot: {x: 0.53428316, y: 0.51502734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_blink_dissapear-Blink-06
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 5342
+        width: 685
+        height: 735
+      alignment: 9
+      pivot: {x: 0.89927006, y: 0.54013604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_blink_dissapear-Blink-07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2595
+        width: 1188
+        height: 975
+      alignment: 9
+      pivot: {x: 0.6557239, y: 0.57641023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_blink_dissapear-Blink-08
+      rect:
+        serializedVersion: 2
+        x: 6917
+        y: 6209
+        width: 1259
+        height: 990
+      alignment: 9
+      pivot: {x: 0.6536934, y: 0.56060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mage_blink_dissapear-Blink-09
+      rect:
+        serializedVersion: 2
+        x: 6698
+        y: 2308
+        width: 1223
+        height: 931
+      alignment: 9
+      pivot: {x: 0.68274736, y: 0.5273899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage_fall-flp_mage_fall_body-flp_mage_ fall_body_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3761
+        width: 1450
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.57655174, y: 0.5310537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage_fall-flp_mage_fall_body-flp_mage_ fall_body_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5196
+        width: 1523
+        height: 1417
+      alignment: 9
+      pivot: {x: 0.5902823, y: 0.5723359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage_fall-flp_mage_fall_body-flp_mage_ fall_body_03
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 4249
+        width: 1514
+        height: 1419
+      alignment: 9
+      pivot: {x: 0.60766184, y: 0.5503876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage_fall-flp_mage_fall_legs-flp_mage_fall_legs_cropped_01
+      rect:
+        serializedVersion: 2
+        x: 6083
+        y: 4855
+        width: 741
+        height: 485
+      alignment: 9
+      pivot: {x: 1.0661268, y: 1.9690722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage_fall-flp_mage_fall_legs-flp_mage_fall_legs_cropped_02
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 3096
+        width: 833
+        height: 663
+      alignment: 9
+      pivot: {x: 1.0144057, y: 1.4404223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage_fall-flp_mage_fall_legs-flp_mage_fall_legs_cropped_03
+      rect:
+        serializedVersion: 2
+        x: 6083
+        y: 3668
+        width: 710
+        height: 698
+      alignment: 9
+      pivot: {x: 1.0859154, y: 1.3681948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage_fall-mage_fall_body-Mage fall_body_01
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 3761
+        width: 1450
+        height: 1433
+      alignment: 9
+      pivot: {x: 0.40344828, y: 0.5310537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage_fall-mage_fall_body-Mage fall_body_02
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 5196
+        width: 1523
+        height: 1417
+      alignment: 9
+      pivot: {x: 0.39724228, y: 0.5723359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage_fall-mage_fall_body-Mage fall_body_03
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 4249
+        width: 1514
+        height: 1419
+      alignment: 9
+      pivot: {x: 0.3996037, y: 0.5574348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage_fall-mage_fall_legs-Mage fall_legs_cropped_01
+      rect:
+        serializedVersion: 2
+        x: 6083
+        y: 4368
+        width: 740
+        height: 485
+      alignment: 9
+      pivot: {x: -0.013513512, y: 1.4185567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage_fall-mage_fall_legs-Mage fall_legs_cropped_02
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 2431
+        width: 832
+        height: 663
+      alignment: 9
+      pivot: {x: -0.01201923, y: 1.306184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage_fall-mage_fall_legs-Mage fall_legs_cropped_03
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 3061
+        width: 709
+        height: 698
+      alignment: 9
+      pivot: {x: -0.014104371, y: 1.290831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

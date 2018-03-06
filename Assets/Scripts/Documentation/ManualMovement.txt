@@ -1,0 +1,13 @@
+Låter spelarna kontrollera rörelsen.
+
+Movement Speed: Hur snabbt rör man sig.
+Jump Force: Hur stark är hoppen? Påverkas av gravitation.
+
+Fall Gravity: Hur stark är gravitationen när man faller? Kan
+användas om hoppen känns lite för lätta eller "floaty". Annars
+sätter man den till samma gravitation som RigidBody2D.
+
+Violent Velocity: Bestämmer hur snabbt man behöver falla för
+att få en screenshake och en rumble när man landar.
+
+Player: Vilken spelare är det? Mage ska vara Player 1.

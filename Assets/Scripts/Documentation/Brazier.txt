@@ -1,0 +1,9 @@
+Öppnar och stänger dörrar när den tänds eller släcks.
+
+Is Burning: Brinner den eller inte?
+Igniters: Lista på saker som kan tända eld på den. Skriv deras tags.
+Snuffers: Lista på saker som kan släcka elden. Skriv deras tags.
+
+Notes:
+Collidern måste vara en trigger.
+Alla Braziers måste ha taggen Brazier.

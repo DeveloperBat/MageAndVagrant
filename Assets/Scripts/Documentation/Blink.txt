@@ -1,0 +1,10 @@
+Flyttar spelobjektet en viss längd (i x och y) till en annan position i spelvärlden.
+Spelobjektet svävar under en viss tid efter flyttningen.
+Det går inte att flyttas igenom väggar.
+
+dragValue: Hur mycket "drag" ska spelaren få under "float" stadiet.
+floatDuration: Hur länge spelobjektet ska sväva (i hel- eller decimaltal).
+blinkDuration: Hur länge spelobjektet ska "blinka" (i hel- eller decimaltal).
+blinkDistance: Hur lång distans blinken ska ha (i hel- eller decimaltal).
+horizontalMax: Hur stort max värdet på blinkdistansen horisontellt är (i hel- eller decimaltal).
+verticalMax: Hur stort max värdet på blinkdistansen vertikalt är (i hel- eller decimaltal).

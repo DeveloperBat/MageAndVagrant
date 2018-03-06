@@ -1,0 +1,7 @@
+Spelarna i spelet.
+
+Deadly Objects: Saker de kan dö av. Skriv deras taggar.
+Interactables: Saker de kan interagera med. Skriv deras taggar.
+
+Note:
+Placera på spelarna

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b37215a19014cbd4592842999220eddf
+timeCreated: 1519741276
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Argos George
+  fontNames:
+  - Argos George
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 08b055a6324272548ac7f0b100e9006d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

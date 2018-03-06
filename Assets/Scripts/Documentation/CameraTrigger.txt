@@ -1,0 +1,12 @@
+Game Camera: Dra in spelkameran här.
+Scene Size: Z positionen av kameran. Mindre värde = större scene.
+(Standard värde för kameran är -35)
+
+Scene Position: Vart ska kamerans mittpunkt vara?
+Move Smoothness: Mer = Mjukare.
+
+Note:
+CameraTrigger använder sig utav sin collider. När en av spelarna kolliderar med
+den aktiveras den. När en av spelarna lämnar inaktiveras den.
+
+Collidern ska vara en trigger.

@@ -1,0 +1,1533 @@
+fileFormatVersion: 2
+guid: 18cf4f620b7a87943b387aafd5644a36
+timeCreated: 1518793834
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spritesheet_1
+    21300002: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-01
+    21300004: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-02
+    21300006: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-03
+    21300008: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-04
+    21300010: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-05
+    21300012: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-06
+    21300014: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-07
+    21300016: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-08
+    21300018: Flame Sprite - Charging PNG-Flame-Sprite-Charging-01
+    21300020: Flame Sprite - Charging PNG-Flame-Sprite-Charging-02
+    21300022: Flame Sprite - Charging PNG-Flame-Sprite-Charging-03
+    21300024: Flame Sprite - Charging PNG-Flame-Sprite-Charging-04
+    21300026: Flame Sprite - Charging PNG-Flame-Sprite-Charging-05
+    21300028: Flame Sprite - Charging PNG-Flame-Sprite-Charging-06
+    21300030: Flame Sprite - Charging PNG-Flame-Sprite-Charging-07
+    21300032: Flame Sprite - Charging PNG-Flame-Sprite-Charging-08
+    21300034: Flame Sprite - Charging PNG-Flame-Sprite-Charging-09
+    21300036: Flame Sprite - Charging PNG-Flame-Sprite-Charging-10
+    21300038: Flame Sprite - Charging PNG-Flame-Sprite-Charging-11
+    21300040: Flame Sprite - Charging PNG-Flame-Sprite-Charging-12
+    21300042: Flame Sprite - Charging PNG-Flame-Sprite-Charging-13
+    21300044: Flame Sprite - Charging PNG-Flame-Sprite-Charging-14
+    21300046: Flame Sprite - Charging PNG-Flame-Sprite-Charging-15
+    21300048: Flame Sprite - Charging PNG-Flame-Sprite-Charging-16
+    21300050: Flame Sprite - Charging PNG-Flame-Sprite-Charging-17
+    21300052: Flame Sprite - Charging PNG-Flame-Sprite-Charging-18
+    21300054: Flame Sprite - Charging PNG-Flame-Sprite-Charging-19
+    21300056: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-01
+    21300058: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-02
+    21300060: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-03
+    21300062: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-04
+    21300064: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-05
+    21300066: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-06
+    21300068: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-07
+    21300070: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-08
+    21300072: Mage sheet-Mage_running_cropped-Mage_running_1
+    21300074: Mage sheet-Mage_running_cropped-Mage_running_2
+    21300076: Mage sheet-Mage_running_cropped-Mage_running_3
+    21300078: Mage sheet-Mage_running_cropped-Mage_running_4
+    21300080: Mage sheet-Mage_running_cropped-Mage_running_5
+    21300082: Mage sheet-Mage_running_cropped-Mage_running_6
+    21300084: Vagrant sheet-Vagrant_jump-Vagrant_jump_1
+    21300086: Vagrant sheet-Vagrant_jump-Vagrant_jump_2
+    21300088: Vagrant sheet-Vagrant_jump-Vagrant_jump_3
+    21300090: Vagrant sheet-Vagrant_jump-Vagrant_jump_4
+    21300092: Vagrant sheet-Vagrant_jump-Vagrant_jump_5
+    21300094: Vagrant sheet-Vagrant_jump-Vagrant_jump_6
+    21300096: Vagrant sheet-Vagrant_running-Vagrant_running_1
+    21300098: Vagrant sheet-Vagrant_running-Vagrant_running_2
+    21300100: Vagrant sheet-Vagrant_running-Vagrant_running_3
+    21300102: Vagrant sheet-Vagrant_running-Vagrant_running_4
+    21300104: Vagrant sheet-Vagrant_running-Vagrant_running_5
+    21300106: Vagrant sheet-Vagrant_running-Vagrant_running_6
+    21300108: Wind Burst Effect PNG-Wind-Burst-Effect-01
+    21300110: Wind Burst Effect PNG-Wind-Burst-Effect-02
+    21300112: Wind Burst Effect PNG-Wind-Burst-Effect-03
+    21300114: Wind Burst Effect PNG-Wind-Burst-Effect-04
+    21300116: Wind Burst Effect PNG-Wind-Burst-Effect-05
+    21300118: Wind Burst Effect PNG-Wind-Burst-Effect-06
+    21300120: Wind Burst Effect PNG-Wind-Burst-Effect-07
+    21300122: Wind Burst Effect PNG-Wind-Burst-Effect-08
+    21300124: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-01
+    21300126: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-02
+    21300128: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-03
+    21300130: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-04
+    21300132: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-05
+    21300134: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-06
+    21300136: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-07
+    21300138: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-08
+    21300140: Wind Sprite - Charging PNG-Wind-Sprite-Charging-01
+    21300142: Wind Sprite - Charging PNG-Wind-Sprite-Charging-02
+    21300144: Wind Sprite - Charging PNG-Wind-Sprite-Charging-03
+    21300146: Wind Sprite - Charging PNG-Wind-Sprite-Charging-04
+    21300148: Wind Sprite - Charging PNG-Wind-Sprite-Charging-05
+    21300150: Wind Sprite - Charging PNG-Wind-Sprite-Charging-06
+    21300152: Wind Sprite - Charging PNG-Wind-Sprite-Charging-07
+    21300154: Wind Sprite - Charging PNG-Wind-Sprite-Charging-08
+    21300156: Wind Sprite - Charging PNG-Wind-Sprite-Charging-09
+    21300158: Wind Sprite - Charging PNG-Wind-Sprite-Charging-10
+    21300160: Wind Sprite - Charging PNG-Wind-Sprite-Charging-11
+    21300162: Wind Sprite - Charging PNG-Wind-Sprite-Charging-12
+    21300164: Wind Sprite - Charging PNG-Wind-Sprite-Charging-13
+    21300166: Wind Sprite - Charging PNG-Wind-Sprite-Charging-14
+    21300168: Wind Sprite - Charging PNG-Wind-Sprite-Charging-15
+    21300170: Wind Sprite - Charging PNG-Wind-Sprite-Charging-16
+    21300172: Wind Sprite - Charging PNG-Wind-Sprite-Charging-17
+    21300174: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-01
+    21300176: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-02
+    21300178: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-03
+    21300180: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-04
+    21300182: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-05
+    21300184: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-06
+    21300186: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-07
+    21300188: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-08
+    21300190: BOOK
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOOK
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 5813
+        width: 766
+        height: 278
+      alignment: 9
+      pivot: {x: 0.54177547, y: 2.0395684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-01
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 3644
+        width: 290
+        height: 669
+      alignment: 9
+      pivot: {x: 0.43793103, y: 0.26158446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-02
+      rect:
+        serializedVersion: 2
+        x: 6902
+        y: 2318
+        width: 248
+        height: 462
+      alignment: 9
+      pivot: {x: 0.63709676, y: 0.34199134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-03
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1640
+        width: 203
+        height: 549
+      alignment: 9
+      pivot: {x: 0.5763547, y: 0.30783242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-04
+      rect:
+        serializedVersion: 2
+        x: 6902
+        y: 2782
+        width: 253
+        height: 473
+      alignment: 9
+      pivot: {x: 0.6007905, y: 0.34460887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-05
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 5612
+        width: 293
+        height: 479
+      alignment: 9
+      pivot: {x: 0.57337886, y: 0.32150313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-06
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 4315
+        width: 305
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5344262, y: 0.31060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-07
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 4845
+        width: 328
+        height: 676
+      alignment: 9
+      pivot: {x: 0.5518293, y: 0.26183432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-08
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 5523
+        width: 329
+        height: 680
+      alignment: 9
+      pivot: {x: 0.6231003, y: 0.2617647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-01
+      rect:
+        serializedVersion: 2
+        x: 5573
+        y: 5054
+        width: 871
+        height: 534
+      alignment: 9
+      pivot: {x: 0.45694605, y: 0.5355805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-02
+      rect:
+        serializedVersion: 2
+        x: 4242
+        y: 4470
+        width: 654
+        height: 606
+      alignment: 9
+      pivot: {x: 0.6085627, y: 0.5561056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3214
+        width: 474
+        height: 428
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.60280377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-04
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 4436
+        width: 675
+        height: 707
+      alignment: 9
+      pivot: {x: 0.43555555, y: 0.6138614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-05
+      rect:
+        serializedVersion: 2
+        x: 7243
+        y: 2483
+        width: 779
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5648267, y: 0.59899116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-06
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 4978
+        width: 726
+        height: 849
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.5689046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-07
+      rect:
+        serializedVersion: 2
+        x: 7383
+        y: 5377
+        width: 799
+        height: 871
+      alignment: 9
+      pivot: {x: 0.5494368, y: 0.5740528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-08
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 5145
+        width: 694
+        height: 666
+      alignment: 9
+      pivot: {x: 0.49567723, y: 0.5750751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-09
+      rect:
+        serializedVersion: 2
+        x: 7470
+        y: 6637
+        width: 712
+        height: 629
+      alignment: 9
+      pivot: {x: 0.45646068, y: 0.6406995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5261
+        width: 190
+        height: 492
+      alignment: 9
+      pivot: {x: 0.52105266, y: 0.37804878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1620
+        width: 198
+        height: 569
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.33040422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-12
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 3644
+        width: 290
+        height: 669
+      alignment: 9
+      pivot: {x: 0.43793103, y: 0.26158446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-13
+      rect:
+        serializedVersion: 2
+        x: 6902
+        y: 2318
+        width: 248
+        height: 462
+      alignment: 9
+      pivot: {x: 0.63709676, y: 0.34199134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1640
+        width: 203
+        height: 549
+      alignment: 9
+      pivot: {x: 0.5763547, y: 0.30783242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-15
+      rect:
+        serializedVersion: 2
+        x: 6902
+        y: 2782
+        width: 253
+        height: 473
+      alignment: 9
+      pivot: {x: 0.6007905, y: 0.34460887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-16
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 5612
+        width: 293
+        height: 479
+      alignment: 9
+      pivot: {x: 0.57337886, y: 0.32150313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-17
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 4315
+        width: 305
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5344262, y: 0.31060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-18
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 4845
+        width: 328
+        height: 676
+      alignment: 9
+      pivot: {x: 0.5518293, y: 0.26183432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-19
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 5523
+        width: 329
+        height: 680
+      alignment: 9
+      pivot: {x: 0.6231003, y: 0.2617647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-01
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 4101
+        width: 381
+        height: 797
+      alignment: 9
+      pivot: {x: 0.5249344, y: 0.6148055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-02
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 6205
+        width: 345
+        height: 706
+      alignment: 9
+      pivot: {x: 0.46376812, y: 0.6855524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-03
+      rect:
+        serializedVersion: 2
+        x: 6024
+        y: 2558
+        width: 367
+        height: 727
+      alignment: 9
+      pivot: {x: 0.4359673, y: 0.6616231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-04
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 4900
+        width: 371
+        height: 710
+      alignment: 9
+      pivot: {x: 0.43665767, y: 0.67887324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-05
+      rect:
+        serializedVersion: 2
+        x: 5189
+        y: 6170
+        width: 388
+        height: 731
+      alignment: 9
+      pivot: {x: 0.43556702, y: 0.65800273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3712
+        width: 412
+        height: 722
+      alignment: 9
+      pivot: {x: 0.46601942, y: 0.67451525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-07
+      rect:
+        serializedVersion: 2
+        x: 5980
+        y: 1499
+        width: 400
+        height: 755
+      alignment: 9
+      pivot: {x: 0.43, y: 0.6463576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-08
+      rect:
+        serializedVersion: 2
+        x: 5189
+        y: 5347
+        width: 382
+        height: 821
+      alignment: 9
+      pivot: {x: 0.44240838, y: 0.60779536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage sheet-Mage_running_cropped-Mage_running_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5755
+        width: 1356
+        height: 1184
+      alignment: 9
+      pivot: {x: 0.45870206, y: 0.5215372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage sheet-Mage_running_cropped-Mage_running_2
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 6903
+        width: 1308
+        height: 1288
+      alignment: 9
+      pivot: {x: 0.48547402, y: 0.5011646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage sheet-Mage_running_cropped-Mage_running_3
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 6913
+        width: 1392
+        height: 1278
+      alignment: 9
+      pivot: {x: 0.51939654, y: 0.50508606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage sheet-Mage_running_cropped-Mage_running_4
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 7018
+        width: 1425
+        height: 1173
+      alignment: 9
+      pivot: {x: 0.52070177, y: 0.46334186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage sheet-Mage_running_cropped-Mage_running_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6941
+        width: 1453
+        height: 1250
+      alignment: 9
+      pivot: {x: 0.5264969, y: 0.5164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mage sheet-Mage_running_cropped-Mage_running_6
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 5829
+        width: 1388
+        height: 1187
+      alignment: 9
+      pivot: {x: 0.45100865, y: 0.50252736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vagrant sheet-Vagrant_jump-Vagrant_jump_1
+      rect:
+        serializedVersion: 2
+        x: 7298
+        y: 3278
+        width: 840
+        height: 1323
+      alignment: 9
+      pivot: {x: 0.64940476, y: 0.5359033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vagrant sheet-Vagrant_jump-Vagrant_jump_2
+      rect:
+        serializedVersion: 2
+        x: 5564
+        y: 3923
+        width: 846
+        height: 1129
+      alignment: 9
+      pivot: {x: 0.64479905, y: 0.62798935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vagrant sheet-Vagrant_jump-Vagrant_jump_3
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 7322
+        width: 999
+        height: 869
+      alignment: 9
+      pivot: {x: 0.45595595, y: 0.50057536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vagrant sheet-Vagrant_jump-Vagrant_jump_4
+      rect:
+        serializedVersion: 2
+        x: 6536
+        y: 6411
+        width: 932
+        height: 909
+      alignment: 9
+      pivot: {x: 0.5059013, y: 0.37183717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vagrant sheet-Vagrant_jump-Vagrant_jump_5
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 5966
+        width: 920
+        height: 935
+      alignment: 9
+      pivot: {x: 0.49945652, y: 0.35828876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vagrant sheet-Vagrant_jump-Vagrant_jump_6
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 2645
+        width: 614
+        height: 1316
+      alignment: 9
+      pivot: {x: 0.49592835, y: 0.46656534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vagrant sheet-Vagrant_running-Vagrant_running_1
+      rect:
+        serializedVersion: 2
+        x: 6412
+        y: 3257
+        width: 829
+        height: 976
+      alignment: 9
+      pivot: {x: 0.6206273, y: 0.5020492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vagrant sheet-Vagrant_running-Vagrant_running_2
+      rect:
+        serializedVersion: 2
+        x: 5430
+        y: 2993
+        width: 592
+        height: 928
+      alignment: 9
+      pivot: {x: 0.47719595, y: 0.5280172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vagrant sheet-Vagrant_running-Vagrant_running_3
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 6093
+        width: 1072
+        height: 818
+      alignment: 9
+      pivot: {x: 0.5107276, y: 0.45232275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vagrant sheet-Vagrant_running-Vagrant_running_4
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 3202
+        width: 617
+        height: 952
+      alignment: 9
+      pivot: {x: 0.4886548, y: 0.5147059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vagrant sheet-Vagrant_running-Vagrant_running_5
+      rect:
+        serializedVersion: 2
+        x: 4898
+        y: 3963
+        width: 627
+        height: 913
+      alignment: 9
+      pivot: {x: 0.4553429, y: 0.5366922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vagrant sheet-Vagrant_running-Vagrant_running_6
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 7370
+        width: 1057
+        height: 821
+      alignment: 9
+      pivot: {x: 0.4791864, y: 0.43848965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Burst Effect PNG-Wind-Burst-Effect-01
+      rect:
+        serializedVersion: 2
+        x: 7298
+        y: 4603
+        width: 842
+        height: 333
+      alignment: 9
+      pivot: {x: 0.49287412, y: 0.45645645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Burst Effect PNG-Wind-Burst-Effect-02
+      rect:
+        serializedVersion: 2
+        x: 6446
+        y: 5083
+        width: 860
+        height: 431
+      alignment: 9
+      pivot: {x: 0.4732558, y: 0.4825986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Burst Effect PNG-Wind-Burst-Effect-03
+      rect:
+        serializedVersion: 2
+        x: 6488
+        y: 5516
+        width: 878
+        height: 442
+      alignment: 9
+      pivot: {x: 0.4692483, y: 0.43891403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Burst Effect PNG-Wind-Burst-Effect-04
+      rect:
+        serializedVersion: 2
+        x: 6488
+        y: 5960
+        width: 893
+        height: 449
+      alignment: 9
+      pivot: {x: 0.48264277, y: 0.4298441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Burst Effect PNG-Wind-Burst-Effect-05
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 4938
+        width: 856
+        height: 437
+      alignment: 9
+      pivot: {x: 0.48364487, y: 0.37528604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Burst Effect PNG-Wind-Burst-Effect-06
+      rect:
+        serializedVersion: 2
+        x: 7470
+        y: 6250
+        width: 711
+        height: 385
+      alignment: 9
+      pivot: {x: 0.48241913, y: 0.3844156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Burst Effect PNG-Wind-Burst-Effect-07
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 4156
+        width: 625
+        height: 312
+      alignment: 9
+      pivot: {x: 0.5168, y: 0.37179488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Burst Effect PNG-Wind-Burst-Effect-08
+      rect:
+        serializedVersion: 2
+        x: 5430
+        y: 2695
+        width: 551
+        height: 296
+      alignment: 9
+      pivot: {x: 0.4954628, y: 0.3716216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-01
+      rect:
+        serializedVersion: 2
+        x: 5147
+        y: 4878
+        width: 415
+        height: 467
+      alignment: 9
+      pivot: {x: 0.54698795, y: 0.47537473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-02
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 4671
+        width: 438
+        height: 496
+      alignment: 9
+      pivot: {x: 0.4497717, y: 0.45967743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 455
+        height: 464
+      alignment: 9
+      pivot: {x: 0.51208794, y: 0.49784482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-04
+      rect:
+        serializedVersion: 2
+        x: 6393
+        y: 2752
+        width: 507
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5108481, y: 0.4612326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4473
+        width: 451
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5365854, y: 0.4831014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-06
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2704
+        width: 498
+        height: 496
+      alignment: 9
+      pivot: {x: 0.5301205, y: 0.49798387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-07
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3234
+        width: 498
+        height: 408
+      alignment: 9
+      pivot: {x: 0.52409637, y: 0.39215687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging LOOP PNG-Wind-Sprite-Charging-LOOP-08
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 43
+        width: 494
+        height: 443
+      alignment: 9
+      pivot: {x: 0.51417005, y: 0.43115124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-01
+      rect:
+        serializedVersion: 2
+        x: 5579
+        y: 5590
+        width: 907
+        height: 883
+      alignment: 9
+      pivot: {x: 0.5016538, y: 0.50169873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-02
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 5078
+        width: 894
+        height: 886
+      alignment: 9
+      pivot: {x: 0.5100671, y: 0.49548534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-03
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 6475
+        width: 947
+        height: 893
+      alignment: 9
+      pivot: {x: 0.49947202, y: 0.49272117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-04
+      rect:
+        serializedVersion: 2
+        x: 6446
+        y: 4235
+        width: 850
+        height: 846
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.4432624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-05
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 5169
+        width: 754
+        height: 658
+      alignment: 9
+      pivot: {x: 0.469496, y: 0.4969605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-06
+      rect:
+        serializedVersion: 2
+        x: 5430
+        y: 2191
+        width: 548
+        height: 502
+      alignment: 9
+      pivot: {x: 0.50547445, y: 0.48406374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-07
+      rect:
+        serializedVersion: 2
+        x: 6024
+        y: 3602
+        width: 381
+        height: 319
+      alignment: 9
+      pivot: {x: 0.48818898, y: 0.492163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-08
+      rect:
+        serializedVersion: 2
+        x: 6024
+        y: 3287
+        width: 380
+        height: 313
+      alignment: 9
+      pivot: {x: 0.55, y: 0.50479233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-09
+      rect:
+        serializedVersion: 2
+        x: 5980
+        y: 2256
+        width: 405
+        height: 300
+      alignment: 9
+      pivot: {x: 0.49876544, y: 0.5466667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-10
+      rect:
+        serializedVersion: 2
+        x: 5147
+        y: 4878
+        width: 415
+        height: 467
+      alignment: 9
+      pivot: {x: 0.54698795, y: 0.47537473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-11
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 4671
+        width: 438
+        height: 496
+      alignment: 9
+      pivot: {x: 0.4497717, y: 0.45967743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 455
+        height: 464
+      alignment: 9
+      pivot: {x: 0.51208794, y: 0.49784482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-13
+      rect:
+        serializedVersion: 2
+        x: 6393
+        y: 2752
+        width: 507
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5108481, y: 0.4612326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4473
+        width: 451
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5365854, y: 0.4831014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-15
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2704
+        width: 498
+        height: 496
+      alignment: 9
+      pivot: {x: 0.5301205, y: 0.49798387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-16
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3234
+        width: 498
+        height: 408
+      alignment: 9
+      pivot: {x: 0.52409637, y: 0.39215687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Charging PNG-Wind-Sprite-Charging-17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 43
+        width: 494
+        height: 443
+      alignment: 9
+      pivot: {x: 0.51417005, y: 0.43115124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-01
+      rect:
+        serializedVersion: 2
+        x: 7647
+        y: 7268
+        width: 511
+        height: 923
+      alignment: 9
+      pivot: {x: 0.46183953, y: 0.53737813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-02
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2680
+        width: 497
+        height: 962
+      alignment: 9
+      pivot: {x: 0.47283703, y: 0.510395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-03
+      rect:
+        serializedVersion: 2
+        x: 6393
+        y: 1798
+        width: 502
+        height: 952
+      alignment: 9
+      pivot: {x: 0.49800798, y: 0.5252101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2205
+        width: 501
+        height: 995
+      alignment: 9
+      pivot: {x: 0.5229541, y: 0.49849245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-05
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1648
+        width: 443
+        height: 995
+      alignment: 9
+      pivot: {x: 0.44695258, y: 0.49547738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 488
+        width: 486
+        height: 1009
+      alignment: 9
+      pivot: {x: 0.48971194, y: 0.49950445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-07
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 491
+        width: 463
+        height: 1006
+      alignment: 9
+      pivot: {x: 0.49892008, y: 0.5089463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind Sprite - Projectile PNG-Wind-Sprite-Projectile-08
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1653
+        width: 452
+        height: 990
+      alignment: 9
+      pivot: {x: 0.43362832, y: 0.5040404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

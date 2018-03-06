@@ -1,0 +1,6 @@
+Pausar spelet.
+
+Pause Panel: Paneln som ska visas när spelet pausar.
+
+Note:
+Pause Panel objektet måste alltid börja som disabled.

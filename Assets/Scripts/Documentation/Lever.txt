@@ -1,0 +1,4 @@
+En spak som kan användas för att öppna dörrar.
+
+Note:
+Alla spakar ska ha taggen Lever.

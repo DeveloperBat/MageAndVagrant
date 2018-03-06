@@ -1,0 +1,8 @@
+En dörr som antingen kan vara låst eller öppen.
+
+Is Open: Är dörren öppen eller stängd?
+Trigger: Vad ska kunna öppna/stänga denna dörr? Skrev dess tag.
+
+Note:
+Dörren fungerar med en toggle. Varje gång en Pressureplate
+aktiveras eller en Brazier tänds/släcks togglas dörren.

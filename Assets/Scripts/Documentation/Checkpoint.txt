@@ -1,0 +1,8 @@
+Respawnar spelarna när de dör.
+
+Is Active: Bestämmer om den är aktiverad.
+
+Note:
+Collidern ska vara en trigger.
+Den första checkpointen ska vara [Is Active = true] i början medan
+resten ska vara [Is Active = false]

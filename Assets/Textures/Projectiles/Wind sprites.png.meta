@@ -1,0 +1,573 @@
+fileFormatVersion: 2
+guid: 1083d8713f1657a468a10ad08d9c0f4b
+timeCreated: 1518699460
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wind sprites
+    21300002: Wind-Sprite-Charging-01
+    21300004: Wind-Sprite-Charging-02
+    21300006: Wind-Sprite-Charging-03
+    21300008: Wind-Sprite-Charging-04
+    21300010: Wind-Sprite-Charging-05
+    21300012: Wind-Sprite-Charging-06
+    21300014: Wind-Sprite-Charging-07
+    21300016: Wind-Sprite-Charging-08
+    21300018: Wind-Sprite-Charging-09
+    21300020: Wind-Sprite-Charging-10
+    21300022: Wind-Sprite-Charging-11
+    21300024: Wind-Sprite-Charging-12
+    21300026: Wind-Sprite-Charging-13
+    21300028: Wind-Sprite-Charging-14
+    21300030: Wind-Sprite-Charging-15
+    21300032: Wind-Sprite-Charging-16
+    21300034: Wind-Sprite-Charging-17
+    21300036: Wind-Sprite-Charging-LOOP-01
+    21300038: Wind-Sprite-Charging-LOOP-02
+    21300040: Wind-Sprite-Charging-LOOP-03
+    21300042: Wind-Sprite-Charging-LOOP-04
+    21300044: Wind-Sprite-Charging-LOOP-05
+    21300046: Wind-Sprite-Charging-LOOP-06
+    21300048: Wind-Sprite-Charging-LOOP-07
+    21300050: Wind-Sprite-Charging-LOOP-08
+    21300052: Wind-Sprite-Projectile-01
+    21300054: Wind-Sprite-Projectile-02
+    21300056: Wind-Sprite-Projectile-03
+    21300058: Wind-Sprite-Projectile-04
+    21300060: Wind-Sprite-Projectile-05
+    21300062: Wind-Sprite-Projectile-06
+    21300064: Wind-Sprite-Projectile-07
+    21300066: Wind-Sprite-Projectile-08
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-01
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 3212
+        width: 907
+        height: 883
+      alignment: 9
+      pivot: {x: 0.5016538, y: 0.50169873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-02
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 3209
+        width: 894
+        height: 886
+      alignment: 9
+      pivot: {x: 0.5100671, y: 0.49548534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-03
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2210
+        width: 947
+        height: 893
+      alignment: 9
+      pivot: {x: 0.49947202, y: 0.49272117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-04
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 316
+        width: 850
+        height: 846
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.4432624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-05
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1550
+        width: 754
+        height: 658
+      alignment: 9
+      pivot: {x: 0.469496, y: 0.4969605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-06
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2708
+        width: 548
+        height: 502
+      alignment: 9
+      pivot: {x: 0.50547445, y: 0.48406374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-07
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1229
+        width: 381
+        height: 319
+      alignment: 9
+      pivot: {x: 0.48818898, y: 0.492163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-08
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1
+        width: 380
+        height: 313
+      alignment: 9
+      pivot: {x: 0.55, y: 0.50479233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-09
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 14
+        width: 405
+        height: 300
+      alignment: 9
+      pivot: {x: 0.49876544, y: 0.5466667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-10
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1236
+        width: 415
+        height: 467
+      alignment: 9
+      pivot: {x: 0.54698795, y: 0.47537473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-11
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 702
+        width: 438
+        height: 496
+      alignment: 9
+      pivot: {x: 0.4497717, y: 0.45967743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-12
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 1744
+        width: 455
+        height: 464
+      alignment: 9
+      pivot: {x: 0.51208794, y: 0.49784482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-13
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1705
+        width: 507
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5108481, y: 0.4612326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-14
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1200
+        width: 451
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5365854, y: 0.4831014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-15
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2210
+        width: 498
+        height: 496
+      alignment: 9
+      pivot: {x: 0.5301205, y: 0.49798387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-16
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2802
+        width: 498
+        height: 408
+      alignment: 9
+      pivot: {x: 0.52409637, y: 0.39215687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-17
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 2263
+        width: 494
+        height: 443
+      alignment: 9
+      pivot: {x: 0.51417005, y: 0.43115124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-LOOP-01
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1236
+        width: 415
+        height: 467
+      alignment: 9
+      pivot: {x: 0.54698795, y: 0.47537473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-LOOP-02
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 702
+        width: 438
+        height: 496
+      alignment: 9
+      pivot: {x: 0.4497717, y: 0.45967743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-LOOP-03
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 1744
+        width: 455
+        height: 464
+      alignment: 9
+      pivot: {x: 0.51208794, y: 0.49784482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-LOOP-04
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1705
+        width: 507
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5108481, y: 0.4612326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-LOOP-05
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1200
+        width: 451
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5365854, y: 0.4831014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-LOOP-06
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2210
+        width: 498
+        height: 496
+      alignment: 9
+      pivot: {x: 0.5301205, y: 0.49798387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-LOOP-07
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2802
+        width: 498
+        height: 408
+      alignment: 9
+      pivot: {x: 0.52409637, y: 0.39215687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Charging-LOOP-08
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 2263
+        width: 494
+        height: 443
+      alignment: 9
+      pivot: {x: 0.51417005, y: 0.43115124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Projectile-01
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1164
+        width: 511
+        height: 923
+      alignment: 9
+      pivot: {x: 0.46183953, y: 0.53737813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Projectile-02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 497
+        height: 962
+      alignment: 9
+      pivot: {x: 0.47283703, y: 0.510395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Projectile-03
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 127
+        width: 502
+        height: 952
+      alignment: 9
+      pivot: {x: 0.49800798, y: 0.5252101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Projectile-04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1081
+        width: 501
+        height: 995
+      alignment: 9
+      pivot: {x: 0.5229541, y: 0.49849245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Projectile-05
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2089
+        width: 443
+        height: 995
+      alignment: 9
+      pivot: {x: 0.44695258, y: 0.49547738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Projectile-06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3086
+        width: 486
+        height: 1009
+      alignment: 9
+      pivot: {x: 0.48971194, y: 0.49950445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Projectile-07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2078
+        width: 463
+        height: 1006
+      alignment: 9
+      pivot: {x: 0.49892008, y: 0.5089463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Wind-Sprite-Projectile-08
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3105
+        width: 452
+        height: 990
+      alignment: 9
+      pivot: {x: 0.43362832, y: 0.5040404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6 @@
+Sätter den globala gravitationen.
+
+Horizontal: Den horizontella gravitationen.
+Vertical: Den vertikala gravitationen.
+
+Standard värde är: 0 | -9.81

@@ -1,0 +1,7 @@
+Öppnar/stänger dörrar när man står på den.
+
+Triggers: Vad ska kunna aktivera den? Skriv deras tags.
+Sink Length: Hur lågt ska den sjunka när den aktiveras?
+
+Note:
+Alla Pressureplates ska ha taggen PressurePlate.

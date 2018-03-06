@@ -1,0 +1,6 @@
+Skakar skärmen.
+
+Kan bara användas i skript.
+
+Används genom att hämta CameraShake komponentet och anropa funktionen
+UseCameraShake() som tar in tre parametrar: Skak tiden, skak storlek och mjukhet.

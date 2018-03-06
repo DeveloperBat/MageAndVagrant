@@ -1,0 +1,8 @@
+Används för Save & Load funktionerna.
+
+Note:
+Hårdkodade H till Save och J till Load. Använd Pause prefaben annars.
+Sparar nuvarande aktiva checkpoint och nuvarande aktiva scene. Därför
+är det viktigt att alltid ha en aktiv checkpoint i början av varje
+scene.
+Scenen måste finna i build settings.

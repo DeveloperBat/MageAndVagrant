@@ -1,0 +1,8 @@
+Låter spelaren hoppa på väggar.
+
+Slide Speed: Hur snabbt bör man glida ner? Lägre värde = långsammare slide.
+Slide Time: Hur länge ska man glida? Beräknas i sekunder.
+
+Note:
+Alla väggar man ska kunna hoppa från borde ha ett material som ger den
+0 friktion, annars fastnar spelaren i väggen.

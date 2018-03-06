@@ -1,0 +1,6 @@
+Hanterar alla checkpoints aktivering/inaktivering
+
+Level Checkpoints: Dra in alla checkpoints i nivån.
+
+Note:
+Placera på ett tomt spelobjekt.

@@ -1,0 +1,10 @@
+Låter platformar gå sönder när man går på dem.
+
+Fall Gravity: Hur mycket gravitation ska platformen påverkas av när den faller?
+Fall Length: Hur långt ner ska den falla innan den försvinner?
+Fall Delay: Hur länge ska den vänta innan den börjar falla?
+falling: Faller den nu? (Bocka om den ska börja med att falla).
+Interactables: Vilka objekt ska kunna få den att falla? Skriv deras tag namn.
+
+Aktiveras när den kolliderar med något som faller på den. Aktiveras inte om något
+rör den underifrån.

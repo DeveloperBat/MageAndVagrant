@@ -1,0 +1,12 @@
+Sätter en bestämd röresle på ett objekt.
+
+Move Speed X: Hastigheten horizontellt.
+Move Speed Y: Hastigheten vertikalt.
+
+Move Range X: Hur långt ska den röra sig horizontellt?
+Move Range Y: Hur långt ska den röra sig vertikalt?
+Om båda är satta till 0 rör sig objektet oändligt i en riktning.
+
+Range Adjust X: Justera den horizontella mittpunkten.
+Range Adjust Y: Justera den vertikala mittpunkten.
+

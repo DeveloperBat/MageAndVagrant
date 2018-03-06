@@ -1,0 +1,20 @@
+Låter kameran följa efter två spelobjekt.
+
+Player 1: Första spelaren.
+Player 2: Andra spelaren.
+(Ordning spelar ingen roll).
+
+Min Size: Minsta zoom.
+Max Size: Största zoom.
+
+Y Distance Modifier: Hur tidigt ska den börja zooma i relation till spelarnas
+vertikala distans.
+
+X Distance Modifier: Hur tidigt ska den börja zooma i relation till spelarnas
+horisontella distans.
+
+Smoothness Movement: Mjuk rörelse. Mer = mjukare.
+Smoothness Zoom: Mjuk zoom. Mer = mjukare.
+
+Note:
+Kameran ska vara en Perspective, inte en Orthographic.

@@ -1,0 +1,3 @@
+Förstör ett objekt när den kolliderar med bestämda objekt.
+
+Triggers: Vilka saker ska kunna "plocka upp" detta? Skriv deras tag namn.

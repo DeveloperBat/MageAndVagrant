@@ -1,0 +1,4 @@
+Används till varje objekt som ska kunna interageras med.
+
+Note:
+Detta ska användas för varje objekt som behövs interageras med.

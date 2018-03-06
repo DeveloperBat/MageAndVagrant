@@ -1,0 +1,7 @@
+Vibrera kontrollen.
+
+Kan bara användas I skript.
+
+Används genom att hämta skriptet och anropa den publika funktionen CallRumble()
+som tar in 4 parametrar: Vilken spelare (0 eller 1), "mörk" intensitet,
+"ljus" intensitet och tid.

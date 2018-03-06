@@ -1,0 +1,12 @@
+Hanterar båda spelarna. Används för att döda och respawna.
+
+Player 1: Antingen Mage eller Vagrant
+Player 2: Den andra spelaren
+(Spelar ingen roll vilken ordning)
+
+(Inte implementerade än)
+Death Delay: Tiden innan den andra spelaren dör efter den första.
+Respawn Delay: Tiden innan båda spelarna respawnar.
+
+Note:
+Placera på ett tomt spelobjekt.

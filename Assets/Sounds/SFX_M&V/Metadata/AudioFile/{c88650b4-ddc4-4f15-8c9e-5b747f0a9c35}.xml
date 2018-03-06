@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c88650b4-ddc4-4f15-8c9e-5b747f0a9c35}">
+        <property name="assetPath">
+            <value>Fire Spell/Fire Casting (Wobbly).wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>8.186349206349206</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{1791510b-0781-4201-b846-d25dfc8e3e10}</destination>
+        </relationship>
+    </object>
+</objects>
