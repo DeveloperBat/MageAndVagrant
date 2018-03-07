@@ -42,6 +42,7 @@ TextureImporter:
     21300070: Mage_fall-mage_fall_legs-Mage fall_legs_cropped_01
     21300072: Mage_fall-mage_fall_legs-Mage fall_legs_cropped_02
     21300074: Mage_fall-mage_fall_legs-Mage fall_legs_cropped_03
+    21300076: mage_appear-flp_mage_appear
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -141,8 +142,8 @@ TextureImporter:
       name: flp_blink_dissapear-FLP-Blink-01
       rect:
         serializedVersion: 2
-        x: 1
-        y: 469
+        x: 3606
+        y: 2710
         width: 1049
         height: 860
       alignment: 9
@@ -197,8 +198,8 @@ TextureImporter:
       name: flp_blink_dissapear-FLP-Blink-05
       rect:
         serializedVersion: 2
-        x: 1191
-        y: 1574
+        x: 1
+        y: 2257
         width: 1123
         height: 732
       alignment: 9
@@ -226,7 +227,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 1331
+        y: 1261
         width: 1188
         height: 975
       alignment: 9
@@ -253,8 +254,8 @@ TextureImporter:
       name: flp_blink_dissapear-FLP-Blink-09
       rect:
         serializedVersion: 2
-        x: 5473
-        y: 2735
+        x: 6767
+        y: 2238
         width: 1223
         height: 931
       alignment: 9
@@ -267,7 +268,7 @@ TextureImporter:
       name: flp_mage_appear-flp_mage_blink_appear_01
       rect:
         serializedVersion: 2
-        x: 2905
+        x: 4199
         y: 3572
         width: 1282
         height: 675
@@ -281,8 +282,8 @@ TextureImporter:
       name: flp_mage_appear-flp_mage_blink_appear_02
       rect:
         serializedVersion: 2
-        x: 6825
-        y: 3877
+        x: 6795
+        y: 3171
         width: 1292
         height: 634
       alignment: 9
@@ -320,11 +321,25 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
+      name: mage_appear-flp_mage_appear
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 3807
+        width: 1353
+        height: 704
+      alignment: 9
+      pivot: {x: 0.50332594, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
       name: mage_appear-mage_blink_appear_01
       rect:
         serializedVersion: 2
-        x: 4189
-        y: 3572
+        x: 5483
+        y: 2991
         width: 1282
         height: 675
       alignment: 9
@@ -337,8 +352,8 @@ TextureImporter:
       name: mage_appear-mage_blink_appear_02
       rect:
         serializedVersion: 2
-        x: 6795
-        y: 3241
+        x: 2905
+        y: 3613
         width: 1292
         height: 634
       alignment: 9
@@ -379,8 +394,8 @@ TextureImporter:
       name: mage_blink_dissapear-Blink-01
       rect:
         serializedVersion: 2
-        x: 1052
-        y: 469
+        x: 4657
+        y: 2129
         width: 1049
         height: 860
       alignment: 9
@@ -435,8 +450,8 @@ TextureImporter:
       name: mage_blink_dissapear-Blink-05
       rect:
         serializedVersion: 2
-        x: 2025
-        y: 2327
+        x: 1126
+        y: 2257
         width: 1123
         height: 732
       alignment: 9
@@ -464,7 +479,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 2595
+        y: 284
         width: 1188
         height: 975
       alignment: 9
@@ -491,8 +506,8 @@ TextureImporter:
       name: mage_blink_dissapear-Blink-09
       rect:
         serializedVersion: 2
-        x: 6698
-        y: 2308
+        x: 2381
+        y: 2680
         width: 1223
         height: 931
       alignment: 9
@@ -510,7 +525,7 @@ TextureImporter:
         width: 1450
         height: 1433
       alignment: 9
-      pivot: {x: 0.57655174, y: 0.5310537}
+      pivot: {x: 0.5765522, y: 0.5310531}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -524,7 +539,7 @@ TextureImporter:
         width: 1523
         height: 1417
       alignment: 9
-      pivot: {x: 0.5902823, y: 0.5723359}
+      pivot: {x: 0.59028256, y: 0.5723363}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -538,7 +553,7 @@ TextureImporter:
         width: 1514
         height: 1419
       alignment: 9
-      pivot: {x: 0.60766184, y: 0.5503876}
+      pivot: {x: 0.6076612, y: 0.5503874}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -552,7 +567,7 @@ TextureImporter:
         width: 741
         height: 485
       alignment: 9
-      pivot: {x: 1.0661268, y: 1.9690722}
+      pivot: {x: 1.066128, y: 1.9690725}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -561,12 +576,12 @@ TextureImporter:
       name: Mage_fall-flp_mage_fall_legs-flp_mage_fall_legs_cropped_02
       rect:
         serializedVersion: 2
-        x: 1191
+        x: 712
         y: 3096
         width: 833
         height: 663
       alignment: 9
-      pivot: {x: 1.0144057, y: 1.4404223}
+      pivot: {x: 1.0144068, y: 1.4404225}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -580,7 +595,7 @@ TextureImporter:
         width: 710
         height: 698
       alignment: 9
-      pivot: {x: 1.0859154, y: 1.3681948}
+      pivot: {x: 1.0859168, y: 1.368195}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -594,7 +609,7 @@ TextureImporter:
         width: 1450
         height: 1433
       alignment: 9
-      pivot: {x: 0.40344828, y: 0.5310537}
+      pivot: {x: 0.40344772, y: 0.5310531}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -608,7 +623,7 @@ TextureImporter:
         width: 1523
         height: 1417
       alignment: 9
-      pivot: {x: 0.39724228, y: 0.5723359}
+      pivot: {x: 0.39724222, y: 0.5723363}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -622,7 +637,7 @@ TextureImporter:
         width: 1514
         height: 1419
       alignment: 9
-      pivot: {x: 0.3996037, y: 0.5574348}
+      pivot: {x: 0.39960364, y: 0.5574348}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -636,7 +651,7 @@ TextureImporter:
         width: 740
         height: 485
       alignment: 9
-      pivot: {x: -0.013513512, y: 1.4185567}
+      pivot: {x: -0.013513455, y: 1.418557}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -645,12 +660,12 @@ TextureImporter:
       name: Mage_fall-mage_fall_legs-Mage fall_legs_cropped_02
       rect:
         serializedVersion: 2
-        x: 1191
-        y: 2431
+        x: 1547
+        y: 3096
         width: 832
         height: 663
       alignment: 9
-      pivot: {x: -0.01201923, y: 1.306184}
+      pivot: {x: -0.012019179, y: 1.3061842}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -659,12 +674,12 @@ TextureImporter:
       name: Mage_fall-mage_fall_legs-Mage fall_legs_cropped_03
       rect:
         serializedVersion: 2
-        x: 2103
+        x: 1
         y: 3061
         width: 709
         height: 698
       alignment: 9
-      pivot: {x: -0.014104371, y: 1.290831}
+      pivot: {x: -0.014104312, y: 1.2908312}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
