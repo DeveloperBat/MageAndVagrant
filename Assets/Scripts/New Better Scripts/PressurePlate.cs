@@ -13,14 +13,14 @@ public class PressurePlate : MonoBehaviour {
 
     private GameObject _pressureSource;
     private RectTransform _rt;
-    private Vector2 _startPos;
-    private Vector2 _sinkPos;
+    private Vector3 _startPos;
+    private Vector3 _sinkPos;
 
     private void Start()
     {
         _rt = GetComponent<RectTransform>();
         _startPos = _rt.position;
-        _sinkPos = new Vector2(_startPos.x, _startPos.y - sinkLength);
+        _sinkPos = new Vector3(_startPos.x, _startPos.y - sinkLength, transform.position.z);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
