@@ -13,8 +13,10 @@ public class CameraTrackSingle : MonoBehaviour {
     //public float maxYPosition;
     public float boundsYAdjust;
     public float boundsXAdjust;
-    public float yDistanceModifier;
-    public float xDistanceModifier;
+    //public float yDistanceModifier;
+    //public float xDistanceModifier;
+    public float yDistanceMultiplier;
+    public float yDistanceTrigger;
     public float smoothnessMovement;
     public float smoothnessZoom;
 
@@ -51,7 +53,7 @@ public class CameraTrackSingle : MonoBehaviour {
     private float GetPlayerDistance()
     {
         float distance = Vector2.Distance(player1.transform.position, player2.transform.position);
-        return distance * xDistanceModifier;
+        return distance /** xDistanceModifier*/;
     }
 
     private void SetCameraSize()
@@ -60,7 +62,14 @@ public class CameraTrackSingle : MonoBehaviour {
 
         if(_playerDistance > minSize && _playerDistance < maxSize)
         {
-            cameraPosition.z = -_playerDistance;
+            if(GetHighestYAxis() - GetLowestYAxis() > yDistanceTrigger)
+            {
+                cameraPosition.z = -_playerDistance * yDistanceMultiplier;
+            }
+            else
+            {
+                cameraPosition.z = -_playerDistance;
+            }
         }
         else
         {
@@ -111,13 +120,28 @@ public class CameraTrackSingle : MonoBehaviour {
         float player1YPos = player1.transform.position.y;
         float player2YPos = player2.transform.position.y;
 
-        if(player1YPos < player2YPos && player2YPos - player1YPos > yDistanceModifier)
+        if(player1YPos < player2YPos /*&& player2YPos - player1YPos > yDistanceModifier*/)
         {
             return player2YPos;
         }
         else
         {
             return player1YPos;
+        }
+    }
+
+    private float GetLowestYAxis()
+    {
+        float player1YPos = player1.transform.position.y;
+        float player2YPos = player2.transform.position.y;
+
+        if (player1YPos < player2YPos /*&& player2YPos - player1YPos > yDistanceModifier*/)
+        {
+            return player1YPos;
+        }
+        else
+        {
+            return player2YPos;
         }
     }
 
