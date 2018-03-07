@@ -85,6 +85,7 @@ public class ManualMovement : MonoBehaviour {
         {
             isGrounded = false;
             _footing = null;
+            canJump = false;
             //_animator.SetBool("jumping", true);
         }
     }
