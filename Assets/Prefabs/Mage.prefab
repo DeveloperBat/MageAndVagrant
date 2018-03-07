@@ -69,7 +69,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4052569474525218
 Transform:
   m_ObjectHideFlags: 1
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1348193096083452}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b285d86169a7d9c4b907190f15aa9b34, type: 3}
+  m_Script: {fileID: 11500000, guid: d517045cb610c9344b673fa5d680e6e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 50
@@ -310,7 +310,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1864757307
-  m_SortingLayer: 2
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300080, guid: 18cf4f620b7a87943b387aafd5644a36, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -354,7 +354,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1441202301
-  m_SortingLayer: 3
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 4d7a1c67cd2b7604eb29215c2f5b064f, type: 3}
   m_Color: {r: 0.7794118, g: 0.18154891, b: 0.051578723, a: 1}
@@ -401,6 +401,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5.8, y: 11.8}
+  m_AnchoredPosition: {x: 148.2, y: 11.8}
   m_SizeDelta: {x: 0.17, y: 0.23}
   m_Pivot: {x: 0.5, y: 0.5}
