@@ -2238,6 +2238,16 @@ Prefab:
       propertyPath: jumpObj.Array.data[1]
       value: Platform
       objectReference: {fileID: 0}
+    - target: {fileID: 114893319744904498, guid: f54f5feb4772f734a9a615cf91ac1dc3,
+        type: 2}
+      propertyPath: angleLimit_1
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 114893319744904498, guid: f54f5feb4772f734a9a615cf91ac1dc3,
+        type: 2}
+      propertyPath: angleLimit_2
+      value: 320
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f54f5feb4772f734a9a615cf91ac1dc3, type: 2}
   m_IsPrefabParent: 0
@@ -3388,13 +3398,13 @@ MonoBehaviour:
   minSize: 25
   maxSize: 100
   minXPosition: -10
-  minYPosition: -20
+  minYPosition: -30
   boundsYAdjust: 1
   boundsXAdjust: 1
   yDistanceMultiplier: 2
-  yDistanceTrigger: 10
-  smoothnessMovement: 0.2
-  smoothnessZoom: 0.2
+  yDistanceTrigger: 20
+  smoothnessMovement: 0.1
+  smoothnessZoom: 0.5
   _maxYPosition: 0
 --- !u!1001 &940219209
 Prefab:
