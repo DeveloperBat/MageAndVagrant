@@ -123,6 +123,31 @@ GameObject:
   m_PrefabParentObject: {fileID: 1916807970751072, guid: f54f5feb4772f734a9a615cf91ac1dc3,
     type: 2}
   m_PrefabInternal: {fileID: 718798596}
+--- !u!114 &20085411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 20085397}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d517045cb610c9344b673fa5d680e6e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movementSpeed: 100
+  jumpForce: 150
+  fallGravity: 40
+  violentVelocity: 100
+  player: 1
+  jumpObj:
+  - Ground
+  - Player
+  canJump: 0
+  isGrounded: 0
+  jumped: 0
+  playerPosition: {x: 0, y: 0}
+  rectTransform: {fileID: 0}
+  _footing: {fileID: 0}
 --- !u!1 &20910650 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1211420521394882, guid: d1934f4e7b9b5bd449c519d4a33b98c3,
@@ -3037,6 +3062,29 @@ GameObject:
   m_PrefabParentObject: {fileID: 1348193096083452, guid: 78a585d977b9ff74cbfc5646e535aa5a,
     type: 2}
   m_PrefabInternal: {fileID: 1838066533}
+--- !u!114 &821456243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 821456231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d517045cb610c9344b673fa5d680e6e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movementSpeed: 50
+  jumpForce: 0
+  fallGravity: 40
+  violentVelocity: 100
+  player: 0
+  jumpObj: []
+  canJump: 0
+  isGrounded: 0
+  jumped: 0
+  playerPosition: {x: 0, y: 0}
+  rectTransform: {fileID: 0}
+  _footing: {fileID: 0}
 --- !u!1 &822200538
 GameObject:
   m_ObjectHideFlags: 0
@@ -4439,6 +4487,35 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!1 &1301080954 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1273775387416716, guid: 2a98357b50624cb42bed63444c0835af,
+    type: 2}
+  m_PrefabInternal: {fileID: 964536261}
+--- !u!114 &1301080964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1301080954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fa280a1ea0a75140ae19abbd560e534, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player1: {fileID: 821456231}
+  player2: {fileID: 20085397}
+  minSize: 25
+  maxSize: 100
+  minXPosition: -10
+  minYPosition: -100
+  boundsYAdjust: 1
+  boundsXAdjust: 1
+  yDistanceMultiplier: 2
+  yDistanceTrigger: 10
+  smoothnessMovement: 0.2
+  smoothnessZoom: 0.2
+  _maxYPosition: 0
 --- !u!1 &1301845488
 GameObject:
   m_ObjectHideFlags: 0
