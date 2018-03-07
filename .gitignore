@@ -37,3 +37,5 @@ fmod_editor.log
 fmod.log
 Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
 Assets/FMODStudioCache.asset
+Assets/Plugins/fmod/StreamingAssets.meta
+fmod.log
