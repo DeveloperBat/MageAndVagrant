@@ -39,9 +39,16 @@ Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
 Assets/FMODStudioCache.asset
 Assets/Plugins/fmod/StreamingAssets.meta
 fmod.log
+<<<<<<< HEAD
 Assets/fmod.meta
 Assets/StreamingAssets/Master Bank.bank
 Assets/StreamingAssets/Master Bank.bank.meta
 Assets/StreamingAssets/Master Bank.strings.bank.meta
 Assets/StreamingAssets/Master Bank.strings.bank
 fmod_editor.log
+=======
+ProjectSettings/ProjectVersion.txt
+Assets/Resources/FMODStudioSettings.asset
+>>>>>>> 51857683917741e2734535e4ca8970a129767eaf
+Assets/FMODStudioCache.asset
+Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
