@@ -1,6 +1,6 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 
@@ -31,33 +31,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-Assets/FMODStudioCache.asset
-Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
-fmod_editor.log
-fmod.log
-Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
-Assets/FMODStudioCache.asset
-Assets/Plugins/fmod/StreamingAssets.meta
-fmod.log
-<<<<<<< HEAD
-Assets/fmod.meta
-Assets/StreamingAssets/Master Bank.bank
-Assets/StreamingAssets/Master Bank.bank.meta
-Assets/StreamingAssets/Master Bank.strings.bank.meta
-Assets/StreamingAssets/Master Bank.strings.bank
-fmod_editor.log
-=======
-ProjectSettings/ProjectVersion.txt
-Assets/Resources/FMODStudioSettings.asset
->>>>>>> 51857683917741e2734535e4ca8970a129767eaf
-Assets/FMODStudioCache.asset
-Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
-Assets/FMODStudioCache.asset
-Assets/FMODStudioCache.asset
-Assets/FMODStudioCache.asset
-Assets/FMODStudioCache.asset.meta
-Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
-fmod_editor.log
-Assets/FMODStudioCache.asset
-Assets/FMODStudioCache.asset
-Assets/FMODStudioCache.asset.meta
+
+Assets/Plugins/fmod/StreamingAssets
+Assets/FMODStudioCache.asset*
+Assets/Plugins/fmod/Resources/FMODStudioSettings.asset*
+fmod_editor.log*
+fmod.log*
+
