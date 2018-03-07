@@ -52,7 +52,7 @@ GameObject:
   - component: {fileID: 114107833516821012}
   m_Layer: 8
   m_Name: Vagrant
-  m_TagString: Player
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -213,7 +213,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1916807970751072}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b285d86169a7d9c4b907190f15aa9b34, type: 3}
+  m_Script: {fileID: 11500000, guid: d517045cb610c9344b673fa5d680e6e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 60
@@ -221,7 +221,9 @@ MonoBehaviour:
   fallGravity: 40
   violentVelocity: 175
   player: 1
-  jumpObj: []
+  jumpObj:
+  - Ground
+  - Platform
   canJump: 0
   isGrounded: 0
   jumped: 0
@@ -263,8 +265,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f10e04230c3a31748aaf12c1d7f2aa8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positiveMax: 220
-  negativeMax: 320
+  angleLimit_1: 0
+  angleLimit_2: 0
 --- !u!212 &212223209736745268
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -297,7 +299,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1864757307
-  m_SortingLayer: 2
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300096, guid: 18cf4f620b7a87943b387aafd5644a36, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
