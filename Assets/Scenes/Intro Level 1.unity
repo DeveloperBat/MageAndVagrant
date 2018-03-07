@@ -3497,7 +3497,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4498929272377648, guid: 2a98357b50624cb42bed63444c0835af, type: 2}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: 0.03489949
       objectReference: {fileID: 0}
     - target: {fileID: 4498929272377648, guid: 2a98357b50624cb42bed63444c0835af, type: 2}
       propertyPath: m_LocalRotation.y
@@ -3509,18 +3509,18 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4498929272377648, guid: 2a98357b50624cb42bed63444c0835af, type: 2}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.99939084
       objectReference: {fileID: 0}
     - target: {fileID: 4498929272377648, guid: 2a98357b50624cb42bed63444c0835af, type: 2}
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 114332448684014762, guid: 2a98357b50624cb42bed63444c0835af,
+    - target: {fileID: 114607791828210398, guid: 2a98357b50624cb42bed63444c0835af,
         type: 2}
       propertyPath: player1
       value: 
       objectReference: {fileID: 821456231}
-    - target: {fileID: 114332448684014762, guid: 2a98357b50624cb42bed63444c0835af,
+    - target: {fileID: 114607791828210398, guid: 2a98357b50624cb42bed63444c0835af,
         type: 2}
       propertyPath: player2
       value: 
@@ -3530,12 +3530,12 @@ Prefab:
       propertyPath: levelCheckpoints.Array.data[0]
       value: 
       objectReference: {fileID: 1301845488}
-    - target: {fileID: 114607791828210398, guid: 2a98357b50624cb42bed63444c0835af,
+    - target: {fileID: 114332448684014762, guid: 2a98357b50624cb42bed63444c0835af,
         type: 2}
       propertyPath: player1
       value: 
       objectReference: {fileID: 821456231}
-    - target: {fileID: 114607791828210398, guid: 2a98357b50624cb42bed63444c0835af,
+    - target: {fileID: 114332448684014762, guid: 2a98357b50624cb42bed63444c0835af,
         type: 2}
       propertyPath: player2
       value: 
