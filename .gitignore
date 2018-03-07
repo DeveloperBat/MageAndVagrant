@@ -39,3 +39,5 @@ Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
 Assets/FMODStudioCache.asset
 Assets/Plugins/fmod/StreamingAssets.meta
 fmod.log
+ProjectSettings/ProjectVersion.txt
+Assets/Resources/FMODStudioSettings.asset
