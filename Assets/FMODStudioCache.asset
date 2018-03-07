@@ -36,17 +36,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Vagrant/vagrant_footsteps
-  guid: a29023fac4683b4e8ffa00e30b260f84
-  Banks:
-  - {fileID: 114466575589529514}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2000
+  Length: 0
 --- !u!114 &114007605352692634
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58,14 +57,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Zimon\\Dropbox\\H\xF6gskola\\\xC5r [1]\\Spelprojekt\\Mage and
-    Vagrant Grupp v1\\Mage and Vagrant v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master
-    Bank.bank"
-  lastModified: 636553422096392154
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3633088
+  FileSizes: []
   Exists: 0
 --- !u!114 &114012867313548668
 MonoBehaviour:
@@ -78,17 +73,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Ambience/ambience_mice
-  guid: 13066d1d13d16841ad6b89776686b937
-  Banks:
-  - {fileID: 114686300451185446}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2000
+  Length: 0
 --- !u!114 &114028755329748542
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -100,17 +94,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Ambience/ambience_loop
-  guid: ba090e36983d2b4bad3450fce27596b1
-  Banks:
-  - {fileID: 114466575589529514}
-  IsStream: 1
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
+  IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 156049
+  Length: 0
 --- !u!114 &114032731423242592
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -122,16 +115,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/ambience_waterdrop
-  guid: 00560eec943b8d4a920f82f8e10f66fc
+  Path: 
+  guid: 00000000000000000000000000000000
   Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2000
+  Length: 0
 --- !u!114 &114048684730058002
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -143,13 +136,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: C:\Users\Errin\Desktop\Unity Projects\New folder\Mage and Vagrant v1\Mage
-    and Vagrant v1\Assets\Sounds\SFX_M&V\Build\Desktop\Master Bank.bank
-  lastModified: 636555039033313547
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3633088
+  FileSizes: []
   Exists: 0
 --- !u!114 &114067854753064214
 MonoBehaviour:
@@ -184,14 +174,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: D:\Mage and vagrant\Mage and Vagrant v1\Assets\Sounds\SFX_M&V\Build\Desktop\Master
-    Bank.bank
-  lastModified: 636558553317548936
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114096143530668160
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -203,17 +190,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Ambience_raindrops
-  guid: 22784e8a1328b3469575818ca1715833
-  Banks:
-  - {fileID: 114632856364901676}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
-  Is3D: 1
-  IsOneShot: 1
+  Is3D: 0
+  IsOneShot: 0
   Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 2000
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &114103921179225602
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -225,17 +211,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_cast
-  guid: 5ea4763f7936624d86fba838aaff3ad8
-  Banks:
-  - {fileID: 114987268265389420}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2046
+  Length: 0
 --- !u!114 &114104177352990178
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -247,17 +232,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Vagrant/vagrant_footsteps
-  guid: a29023fac4683b4e8ffa00e30b260f84
-  Banks:
-  - {fileID: 114115806113017072}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2000
+  Length: 0
 --- !u!114 &114115806113017072
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -269,15 +253,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Zimon\\Dropbox\\H\xF6gskola\\\xC5r [1]\\Spelprojekt\\Mage and
-    Vagrant Grupp v1\\Mage and Vagrant v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master
-    Bank.bank"
-  lastModified: 636558557012304622
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114120551803920750
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -289,16 +269,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/World/Ambience/Ambience_Mice
-  guid: 3f2cf04c5a6387498dd6373b85824177
+  Path: 
+  guid: 00000000000000000000000000000000
   Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 3500
+  Length: 0
 --- !u!114 &114128020854057214
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -310,17 +290,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Ambience_Loop
-  guid: 885eb3d18827a746a8e9538e099eb6b0
-  Banks:
-  - {fileID: 114632856364901676}
-  IsStream: 1
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
+  IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 88500
+  Length: 0
 --- !u!114 &114138033396942666
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -332,13 +311,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: C:\Users\Herminator\Documents\Unity\Mage and Vagrant v1\Assets\Sounds\SFX_M&V\Build\Desktop\Master
-    Bank.bank
-  lastModified: 636553420113298245
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3633088
+  FileSizes: []
   Exists: 0
 --- !u!114 &114149277938099274
 MonoBehaviour:
@@ -351,17 +327,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_charge
-  guid: 8f0af999a3b50c488ec1fac1088419e3
-  Banks:
-  - {fileID: 114466575589529514}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 8186
+  Length: 0
 --- !u!114 &114208939423773950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -373,16 +348,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/World/Ambience/Ambience_raindrops
-  guid: 22784e8a1328b3469575818ca1715833
+  Path: 
+  guid: 00000000000000000000000000000000
   Banks: []
   IsStream: 0
-  Is3D: 1
-  IsOneShot: 1
+  Is3D: 0
+  IsOneShot: 0
   Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 2000
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &114212182393438574
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -394,28 +369,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "E:\\Documents\\Skola\\DSU\\P\xE5g\xE5ende uppgifter\\Projekt i spel 1\\Mage
-    and Vagrant v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master Bank.bank"
-  lastModified: 636553538156984756
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3633088
-  Exists: 1
---- !u!114 &114225677988917496
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Path: Assets\Sounds\SFX_M&V\Build\Desktop\Master Bank.strings.bank
-  lastModified: 636558566213096414
-  LoadResult: 0
+<<<<<<< HEAD
   FileSizes:
   - Name: Desktop
     Value: 988
@@ -442,6 +399,10 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 2000
+=======
+  FileSizes: []
+  Exists: 0
+>>>>>>> c356610aa05a843c08c750fd919355e9947cf611
 --- !u!114 &114253028289785240
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -453,17 +414,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_charge
-  guid: 8f0af999a3b50c488ec1fac1088419e3
-  Banks:
-  - {fileID: 114115806113017072}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 8186
+  Length: 0
 --- !u!114 &114265697678414970
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -475,16 +435,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/World/Ambience/ambience_dungeon
-  guid: adbd9f8a7bc76541baefb551e7cb7f25
-  Banks:
-  - {fileID: 114700766129678248}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
+<<<<<<< HEAD
   Length: 4296
 --- !u!114 &114272645274112662
 MonoBehaviour:
@@ -505,6 +465,9 @@ MonoBehaviour:
   - Name: Desktop
     Value: 3374336
   Exists: 1
+=======
+  Length: 0
+>>>>>>> c356610aa05a843c08c750fd919355e9947cf611
 --- !u!114 &114274840553905604
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -516,13 +479,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: C:\Users\axvik\Documents\Unity Projects\Mage and Vagrant v1\Assets\Sounds\SFX_M&V\Build\Desktop\Master
-    Bank.bank
-  lastModified: 636558549499106828
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
+  FileSizes: []
   Exists: 0
 --- !u!114 &114280178706117216
 MonoBehaviour:
@@ -535,17 +495,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_impact
-  guid: fad0c82af723fc4e9cbe87144ed2dfc9
-  Banks:
-  - {fileID: 114115806113017072}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2046
+  Length: 0
 --- !u!114 &114281164677631570
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -557,14 +516,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: C:\Users\Herminator\Documents\Unity\Mage and Vagrant v1\Assets\Sounds\SFX_M&V\Build\Desktop\Master
-    Bank.bank
-  lastModified: 636553381757883100
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 2551744
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114290140494310344
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -576,13 +532,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: C:\Users\axvik\Documents\Unity Projects\Mage and Vagrant v1\Assets\Sounds\SFX_M&V\Build\Desktop\Master
-    Bank.bank
-  lastModified: 636558549499106828
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
+  FileSizes: []
   Exists: 0
 --- !u!114 &114291756091279372
 MonoBehaviour:
@@ -595,17 +548,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_cast
-  guid: 5ea4763f7936624d86fba838aaff3ad8
-  Banks:
-  - {fileID: 114700766129678248}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2046
+  Length: 0
 --- !u!114 &114296134999329162
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -617,39 +569,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Vagrant_footsteps
-  guid: 14e145220791744eb7b0b28b2fd76a46
-  Banks:
-  - {fileID: 114632856364901676}
-  IsStream: 0
-  Is3D: 1
-  IsOneShot: 1
-  Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 2000
---- !u!114 &114297583485554100
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_cast
-  guid: 5ea4763f7936624d86fba838aaff3ad8
-  Banks:
-  - {fileID: 114637474256018686}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2046
+  Length: 0
 --- !u!114 &114305769604676460
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -661,17 +590,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Ambience_Cry
-  guid: c2a475b5cf22e8478a2c5edf72f345a2
-  Banks:
-  - {fileID: 114632856364901676}
-  IsStream: 1
-  Is3D: 1
-  IsOneShot: 1
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
   Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 13500
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &114317051253697158
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -683,16 +611,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_impact
-  guid: fad0c82af723fc4e9cbe87144ed2dfc9
-  Banks:
-  - {fileID: 114987268265389420}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
+<<<<<<< HEAD
   Length: 2046
 --- !u!114 &114340241284269874
 MonoBehaviour:
@@ -716,6 +644,9 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 2046
+=======
+  Length: 0
+>>>>>>> c356610aa05a843c08c750fd919355e9947cf611
 --- !u!114 &114349926908993844
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -727,17 +658,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Ambience/ambience_loop
-  guid: ba090e36983d2b4bad3450fce27596b1
-  Banks:
-  - {fileID: 114987268265389420}
-  IsStream: 1
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
+  IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 156049
+  Length: 0
 --- !u!114 &114363340676822866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -749,16 +679,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/ambience_cry
-  guid: f007b904d81c8a4e93e8c75c83437e33
+  Path: 
+  guid: 00000000000000000000000000000000
   Banks: []
-  IsStream: 1
+  IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2000
+  Length: 0
 --- !u!114 &114389073729415466
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -770,16 +700,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Vagrant/Vagrant_footsteps
-  guid: 14e145220791744eb7b0b28b2fd76a46
+  Path: 
+  guid: 00000000000000000000000000000000
   Banks: []
   IsStream: 0
-  Is3D: 1
-  IsOneShot: 1
+  Is3D: 0
+  IsOneShot: 0
   Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 2000
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &114400636460523594
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -791,14 +721,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Zimon\\Dropbox\\H\xF6gskola\\\xC5r [1]\\Spelprojekt\\Mage and
-    Vagrant Grupp v1\\Mage and Vagrant v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master
-    Bank.bank"
-  lastModified: 636553422096392154
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3633088
+  FileSizes: []
   Exists: 0
 --- !u!114 &114416229250511234
 MonoBehaviour:
@@ -811,17 +737,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_loop
-  guid: 706bd2adf7796b44b6e674fbb899a877
-  Banks:
-  - {fileID: 114987268265389420}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 4093
+  Length: 0
 --- !u!114 &114417091976085354
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -833,13 +758,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: Assets\Sounds\SFX_M&V\Build\Desktop\Master Bank.strings.bank
-  lastModified: 636558556954736820
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 988
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114421431645135188
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -851,14 +774,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Hampus \xD6sterlund\\Documents\\Unity\\Mage and Vagrant v1\\Mage
-    and Vagrant v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master Bank.bank"
-  lastModified: 636558566240028906
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114437362227947802
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -870,13 +790,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: D:\Unity\Ny mapp\Mage and Vagrant v1\Assets\Sounds\SFX_M&V\Build\Desktop\Master
-    Bank.bank
-  lastModified: 636556031804265141
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3633088
+  FileSizes: []
   Exists: 0
 --- !u!114 &114438639787342692
 MonoBehaviour:
@@ -889,14 +806,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Zimon\\Dropbox\\H\xF6gskola\\\xC5r [1]\\Spelprojekt\\Mage and
-    Vagrant Grupp v1\\Mage and Vagrant v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master
-    Bank.bank"
-  lastModified: 636558557012304622
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
+  FileSizes: []
   Exists: 0
 --- !u!114 &114456252231720260
 MonoBehaviour:
@@ -909,16 +822,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/World/Ambience/Ambience_Cry
-  guid: c2a475b5cf22e8478a2c5edf72f345a2
+  Path: 
+  guid: 00000000000000000000000000000000
   Banks: []
-  IsStream: 1
-  Is3D: 1
-  IsOneShot: 1
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
   Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 13500
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &114463373380548336
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -930,17 +843,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_charge
-  guid: 8f0af999a3b50c488ec1fac1088419e3
-  Banks:
-  - {fileID: 114987268265389420}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 8186
+  Length: 0
 --- !u!114 &114466575589529514
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -952,14 +864,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Hampus \xD6sterlund\\Documents\\Unity\\MageAndVagrant\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master
-    Bank.bank"
-  lastModified: 636558566240028906
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114468561487882726
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -971,17 +880,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_charge
-  guid: 8f0af999a3b50c488ec1fac1088419e3
-  Banks:
-  - {fileID: 114700766129678248}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 8186
+  Length: 0
 --- !u!114 &114469300134733374
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -993,17 +901,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Ambience/ambience_cry
-  guid: f007b904d81c8a4e93e8c75c83437e33
-  Banks:
-  - {fileID: 114686300451185446}
-  IsStream: 1
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
+  IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2000
+  Length: 0
 --- !u!114 &114474295456548280
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1015,16 +922,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/ambience_loop
-  guid: ba090e36983d2b4bad3450fce27596b1
+  Path: 
+  guid: 00000000000000000000000000000000
   Banks: []
-  IsStream: 1
+  IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 256000
+  Length: 0
 --- !u!114 &114492123963348492
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1036,39 +943,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_loop
-  guid: 706bd2adf7796b44b6e674fbb899a877
-  Banks:
-  - {fileID: 114115806113017072}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 4093
---- !u!114 &114503952480107484
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_impact
-  guid: fad0c82af723fc4e9cbe87144ed2dfc9
-  Banks:
-  - {fileID: 114637474256018686}
-  IsStream: 0
-  Is3D: 0
-  IsOneShot: 1
-  Parameters: []
-  MinDistance: 0
-  MaxDistance: 0
-  Length: 2046
+  Length: 0
 --- !u!114 &114524028292475502
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1080,13 +964,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: Assets\Sounds\SFX_M&V\Build\Desktop\Master Bank.strings.bank
-  lastModified: 636558556954736820
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 988
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114532516827240052
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1098,13 +980,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: C:\Users\Errin\OneDrive\Dokument\MnV\Mage and Vagrant v1\Mage and Vagrant
-    v1\Assets\Sounds\SFX_M&V\Build\Desktop\Master Bank.bank
-  lastModified: 636558546270825261
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
+  FileSizes: []
   Exists: 0
 --- !u!114 &114532923727327966
 MonoBehaviour:
@@ -1135,17 +1014,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_loop
-  guid: 706bd2adf7796b44b6e674fbb899a877
-  Banks:
-  - {fileID: 114466575589529514}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 4093
+  Length: 0
 --- !u!114 &114569208477648092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1157,9 +1035,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/World/Ambience/Ambience_loop
-  guid: 922bce806006894c9f1b192cea14a38a
+  Path: 
+  guid: 00000000000000000000000000000000
   Banks: []
+<<<<<<< HEAD
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -1248,12 +1127,15 @@ MonoBehaviour:
   guid: 8f0af999a3b50c488ec1fac1088419e3
   Banks:
   - {fileID: 114637474256018686}
+=======
+>>>>>>> c356610aa05a843c08c750fd919355e9947cf611
   IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
+<<<<<<< HEAD
   Length: 8186
 --- !u!114 &114579054019450934
 MonoBehaviour:
@@ -1277,6 +1159,9 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 156049
+=======
+  Length: 0
+>>>>>>> c356610aa05a843c08c750fd919355e9947cf611
 --- !u!114 &114601471916738108
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1288,17 +1173,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Vagrant/vagrant_footsteps
-  guid: a29023fac4683b4e8ffa00e30b260f84
-  Banks:
-  - {fileID: 114987268265389420}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2000
+  Length: 0
 --- !u!114 &114603519273206224
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1310,39 +1194,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_impact
-  guid: fad0c82af723fc4e9cbe87144ed2dfc9
-  Banks:
-  - {fileID: 114700766129678248}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
-  Is3D: 0
-  IsOneShot: 1
-  Parameters: []
-  MinDistance: 0
-  MaxDistance: 0
-  Length: 2046
---- !u!114 &114611780070919524
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Path: event:/Ambience/ambience_loop
-  guid: ba090e36983d2b4bad3450fce27596b1
-  Banks:
-  - {fileID: 114637474256018686}
-  IsStream: 1
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 156049
+  Length: 0
 --- !u!114 &114632856364901676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1354,33 +1215,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Hampus \xC3\u2013sterlund\\Documents\\Unity\\Mage and Vagrant
-    v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master Bank.bank"
-  lastModified: 636553384643502714
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 2551744
-  Exists: 1
---- !u!114 &114637474256018686
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Hampus \xD6sterlund\\Documents\\Unity\\MageAndVagrant\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master
-    Bank.bank"
-  lastModified: 636558566240028906
-  LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114645315288806924
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1392,14 +1231,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: D:\Mage and vagrant\Mage and Vagrant v1\Assets\Sounds\SFX_M&V\Build\Desktop\Master
-    Bank.bank
-  lastModified: 636558553317548936
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114686300451185446
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1411,14 +1247,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: D:\Mage and vagrant\Mage and Vagrant v1\Assets\Sounds\SFX_M&V\Build\Desktop\Master
-    Bank.bank
-  lastModified: 636558553317548936
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114698049028621498
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1430,17 +1263,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_cast
-  guid: 5ea4763f7936624d86fba838aaff3ad8
-  Banks:
-  - {fileID: 114466575589529514}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2046
+  Length: 0
 --- !u!114 &114700766129678248
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1452,14 +1284,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Hampus \xC3\u2013sterlund\\Documents\\Unity\\Mage and Vagrant
-    v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master Bank.bank"
-  lastModified: 636552588791659193
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 330912
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114723908207343748
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1471,16 +1300,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Ambience/ambience_waterdrop
-  guid: 00560eec943b8d4a920f82f8e10f66fc
-  Banks:
-  - {fileID: 114686300451185446}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
+<<<<<<< HEAD
   Length: 2000
 --- !u!114 &114729171423343580
 MonoBehaviour:
@@ -1504,6 +1333,9 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 2046
+=======
+  Length: 0
+>>>>>>> c356610aa05a843c08c750fd919355e9947cf611
 --- !u!114 &114739146925228362
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1515,13 +1347,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: D:\Unity Projects\Mage and Vagrant v1\Assets\Sounds\SFX_M&V\Build\Desktop\Master
-    Bank.bank
-  lastModified: 636555055860000000
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3633088
+  FileSizes: []
   Exists: 0
 --- !u!114 &114749764614518576
 MonoBehaviour:
@@ -1534,17 +1363,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_cast
-  guid: 5ea4763f7936624d86fba838aaff3ad8
-  Banks:
-  - {fileID: 114115806113017072}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2046
+  Length: 0
 --- !u!114 &114763925371871986
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1556,36 +1384,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Hampus \xD6sterlund\\Documents\\Unity\\Mage and Vagrant v1\\Mage
-    and Vagrant v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master Bank.bank"
-  lastModified: 636558566240028906
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
+  FileSizes: []
   Exists: 0
---- !u!114 &114795742751334986
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_loop
-  guid: 706bd2adf7796b44b6e674fbb899a877
-  Banks:
-  - {fileID: 114637474256018686}
-  IsStream: 0
-  Is3D: 0
-  IsOneShot: 0
-  Parameters: []
-  MinDistance: 0
-  MaxDistance: 0
-  Length: 4093
 --- !u!114 &114802608600598782
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1597,15 +1400,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Zimon\\Dropbox\\H\xF6gskola\\\xC5r [1]\\Spelprojekt\\Mage and
-    Vagrant Grupp v1\\Mage and Vagrant v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master
-    Bank.bank"
-  lastModified: 636553422096392154
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3633088
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114805099052233554
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1617,13 +1416,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Hampus \xC3\u2013sterlund\\Documents\\Unity\\Mage and Vagrant
-    v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master Bank.bank"
-  lastModified: 636552588791659193
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: 
-    Value: 330912
+  FileSizes: []
   Exists: 0
 --- !u!114 &114805188386567958
 MonoBehaviour:
@@ -1636,17 +1432,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Ambience_Mice
-  guid: 3f2cf04c5a6387498dd6373b85824177
-  Banks:
-  - {fileID: 114632856364901676}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 3500
+  Length: 0
 --- !u!114 &114836226146742682
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1658,14 +1453,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Zimon\\Dropbox\\H\xF6gskola\\\xC5r [1]\\Spelprojekt\\Mage and
-    Vagrant Grupp v1\\Mage and Vagrant v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master
-    Bank.bank"
-  lastModified: 636558557012304622
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
+  FileSizes: []
   Exists: 0
 --- !u!114 &114875154433164542
 MonoBehaviour:
@@ -1678,13 +1469,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: Assets\Sounds\SFX_M&V\Build\Desktop\Master Bank.strings.bank
-  lastModified: 636552588787350476
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 942
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114881874075105528
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1696,16 +1485,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/ambience_mice
-  guid: 13066d1d13d16841ad6b89776686b937
+  Path: 
+  guid: 00000000000000000000000000000000
   Banks: []
   IsStream: 0
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 2000
+  Length: 0
 --- !u!114 &114925954435132642
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1717,13 +1506,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: Assets\Sounds\SFX_M&V\Build\Desktop\Master Bank.strings.bank
-  lastModified: 636558566213096414
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 988
-  Exists: 1
+  FileSizes: []
+  Exists: 0
 --- !u!114 &114938906751332386
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1735,13 +1522,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Hampus \xD6sterlund\\Documents\\Unity\\Mage and Vagrant v1\\Mage
-    and Vagrant v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master Bank.bank"
-  lastModified: 636556009509903844
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3633088
+  FileSizes: []
   Exists: 0
 --- !u!114 &114946053644899662
 MonoBehaviour:
@@ -1754,17 +1538,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Mage/Fire Spell/fire_loop
-  guid: 706bd2adf7796b44b6e674fbb899a877
-  Banks:
-  - {fileID: 114700766129678248}
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
   IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 4093
+  Length: 0
 --- !u!114 &114979515167166688
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1776,8 +1559,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/World/Ambience/ambience_dungeon
-  guid: adbd9f8a7bc76541baefb551e7cb7f25
+  Path: 
+  guid: 00000000000000000000000000000000
   Banks: []
   IsStream: 0
   Is3D: 0
@@ -1785,7 +1568,7 @@ MonoBehaviour:
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 4296
+  Length: 0
 --- !u!114 &114986297030659726
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1797,17 +1580,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: event:/Ambience/ambience_loop
-  guid: ba090e36983d2b4bad3450fce27596b1
-  Banks:
-  - {fileID: 114115806113017072}
-  IsStream: 1
+  Path: 
+  guid: 00000000000000000000000000000000
+  Banks: []
+  IsStream: 0
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 156049
+  Length: 0
 --- !u!114 &114987268265389420
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1819,12 +1601,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: "C:\\Users\\Zimon\\Dropbox\\H\xF6gskola\\\xC5r [1]\\Spelprojekt\\Mage and
-    Vagrant Grupp v1\\Mage and Vagrant v1\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master
-    Bank.bank"
-  lastModified: 636558557012304622
+  Path: 
+  lastModified: 0
   LoadResult: 0
-  FileSizes:
-  - Name: Desktop
-    Value: 3374336
-  Exists: 1
+  FileSizes: []
+  Exists: 0

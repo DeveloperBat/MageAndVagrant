@@ -29,6 +29,12 @@ TextureImporter:
     21300044: vagrant_jumping-Vagrant-Jumping-04
     21300046: vagrant_jumping-Vagrant-Jumping-05
     21300048: vagrant_jumping-Vagrant-Jumping-06
+    21300050: flp_vagrant_landing-flp_vagrant_landing_01
+    21300052: flp_vagrant_landing-flp_vagrant_landing_02
+    21300054: flp_vagrant_landing-flp_vagrant_landing_03
+    21300056: vagrant_landing-vagrant_landing_01
+    21300058: vagrant_landing-vagrant_landing_02
+    21300060: vagrant_landing-vagrant_landing_03
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -168,8 +174,8 @@ TextureImporter:
       name: flp_vagrant_jumping-FLP-Vagrant-Jumping-06
       rect:
         serializedVersion: 2
-        x: 1
-        y: 2190
+        x: 2260
+        y: 1528
         width: 600
         height: 1318
       alignment: 9
@@ -179,11 +185,53 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
+      name: flp_vagrant_landing-flp_vagrant_landing_01
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 4895
+        width: 831
+        height: 665
+      alignment: 9
+      pivot: {x: 0.43261132, y: 0.66917294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_vagrant_landing-flp_vagrant_landing_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3074
+        width: 823
+        height: 683
+      alignment: 9
+      pivot: {x: 0.43560147, y: 0.6632504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flp_vagrant_landing-flp_vagrant_landing_03
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2700
+        width: 816
+        height: 833
+      alignment: 9
+      pivot: {x: 0.43075982, y: 0.542617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
       name: flp_vagrant_running-FLP-Vagrant-Running-01
       rect:
         serializedVersion: 2
         x: 1775
-        y: 4583
+        y: 3916
         width: 829
         height: 977
       alignment: 9
@@ -196,8 +244,8 @@ TextureImporter:
       name: flp_vagrant_running-FLP-Vagrant-Running-02
       rect:
         serializedVersion: 2
-        x: 2394
-        y: 2726
+        x: 627
+        y: 1772
         width: 596
         height: 926
       alignment: 9
@@ -224,8 +272,8 @@ TextureImporter:
       name: flp_vagrant_running-FLP-Vagrant-Running-04
       rect:
         serializedVersion: 2
-        x: 3437
-        y: 2769
+        x: 1
+        y: 2126
         width: 624
         height: 946
       alignment: 9
@@ -238,8 +286,8 @@ TextureImporter:
       name: flp_vagrant_running-FLP-Vagrant-Running-05
       rect:
         serializedVersion: 2
-        x: 1
-        y: 3510
+        x: 3120
+        y: 2800
         width: 614
         height: 915
       alignment: 9
@@ -266,8 +314,8 @@ TextureImporter:
       name: vagrant _running-Vagrant-Running-01
       rect:
         serializedVersion: 2
-        x: 2606
-        y: 3654
+        x: 849
+        y: 3535
         width: 829
         height: 976
       alignment: 9
@@ -280,8 +328,8 @@ TextureImporter:
       name: vagrant _running-Vagrant-Running-02
       rect:
         serializedVersion: 2
-        x: 1465
-        y: 2699
+        x: 1
+        y: 1196
         width: 592
         height: 928
       alignment: 9
@@ -308,8 +356,8 @@ TextureImporter:
       name: vagrant _running-Vagrant-Running-04
       rect:
         serializedVersion: 2
-        x: 1775
-        y: 3629
+        x: 2501
+        y: 2848
         width: 617
         height: 952
       alignment: 9
@@ -322,7 +370,7 @@ TextureImporter:
       name: vagrant _running-Vagrant-Running-05
       rect:
         serializedVersion: 2
-        x: 3437
+        x: 3427
         y: 3717
         width: 627
         height: 913
@@ -420,12 +468,54 @@ TextureImporter:
       name: vagrant_jumping-Vagrant-Jumping-06
       rect:
         serializedVersion: 2
-        x: 849
-        y: 3195
+        x: 1644
+        y: 1907
         width: 614
         height: 1316
       alignment: 9
       pivot: {x: 0.49592835, y: 0.46656534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: vagrant_landing-vagrant_landing_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3759
+        width: 825
+        height: 666
+      alignment: 9
+      pivot: {x: 0.56666666, y: 0.6681682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: vagrant_landing-vagrant_landing_02
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3225
+        width: 819
+        height: 689
+      alignment: 9
+      pivot: {x: 0.57081807, y: 0.65312046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: vagrant_landing-vagrant_landing_03
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 3802
+        width: 819
+        height: 828
+      alignment: 9
+      pivot: {x: 0.56959707, y: 0.5458937}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
