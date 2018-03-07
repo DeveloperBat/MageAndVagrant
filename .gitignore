@@ -34,3 +34,6 @@ sysinfo.txt
 Assets/FMODStudioCache.asset
 Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
 fmod_editor.log
+fmod.log
+Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
+Assets/FMODStudioCache.asset
