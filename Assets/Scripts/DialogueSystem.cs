@@ -5,20 +5,19 @@ using System.IO;
 using System;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 //Put this script on a Canvas GameObject.
 public class DialogueSystem : MonoBehaviour {
-    public string fileName;
-    public string dialogue;
+
+    private static string staticFileName;
+    private bool isWriting;
 
     CanvasGroup canvasDialogue;
     Image imageFrame;
     Animator animatorDialogue;
     TextMeshProUGUI textDialogue;
-
-
-    private static string staticFileName;
 
     public class Line
     {
@@ -49,7 +48,7 @@ public class DialogueSystem : MonoBehaviour {
 
     void Awake()
     {
-        staticFileName = fileName;
+        staticFileName = @"Assets\Text\" +SceneManager.GetActiveScene().name + ".txt";
 
         canvasDialogue = gameObject.GetComponent<CanvasGroup>();
         imageFrame = gameObject.GetComponentInChildren<Image>();
@@ -57,14 +56,14 @@ public class DialogueSystem : MonoBehaviour {
         textDialogue = gameObject.GetComponentInChildren<TextMeshProUGUI>();
     }
 
-    void Start()
+    public bool IsWriting()
     {
-        textDialogue.text = "";
-        PrintDialogue(dialogue);
+        return isWriting;
     }
 
     public void PrintDialogue(string keyword)
     {
+        isWriting = true;
         List<string> preLines = GetDialogue(keyword);
         List<Line> lines = GetLines(preLines);
         StartCoroutine(PrintLines(lines));
@@ -171,6 +170,7 @@ public class DialogueSystem : MonoBehaviour {
             yield return StartCoroutine(PrintLine(lines[i]));
         }
         yield return StartCoroutine(FadeDialogue(0f, 2f));
+        isWriting = false;
     }
 
     private IEnumerator PrintLine(Line currentLine)

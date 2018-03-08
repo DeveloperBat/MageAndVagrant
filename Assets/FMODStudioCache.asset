@@ -80,6 +80,50 @@ MonoBehaviour:
   - Name: Desktop
     Value: 3374336
   Exists: 1
+--- !u!114 &114157224437021598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Fire Spell/fire_loop
+  guid: 706bd2adf7796b44b6e674fbb899a877
+  Banks:
+  - {fileID: 114356092133747778}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4093
+--- !u!114 &114229285243334236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Fire Spell/fire_charge
+  guid: 8f0af999a3b50c488ec1fac1088419e3
+  Banks:
+  - {fileID: 114356092133747778}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 8186
 --- !u!114 &114326815980712844
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -98,6 +142,91 @@ MonoBehaviour:
   - Name: Desktop
     Value: 988
   Exists: 1
+--- !u!114 &114356092133747778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: "C:\\Users\\Hampus \xD6sterlund\\Documents\\Unity\\MageAndVagrant\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master
+    Bank.bank"
+  lastModified: 636558566240028906
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3374336
+  Exists: 1
+--- !u!114 &114479379467606006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Fire Spell/fire_cast
+  guid: 5ea4763f7936624d86fba838aaff3ad8
+  Banks:
+  - {fileID: 114356092133747778}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2046
+--- !u!114 &114515802799023432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Fire Spell/fire_impact
+  guid: fad0c82af723fc4e9cbe87144ed2dfc9
+  Banks:
+  - {fileID: 114356092133747778}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2046
+--- !u!114 &114686435575707700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Vagrant/vagrant_footsteps
+  guid: a29023fac4683b4e8ffa00e30b260f84
+  Banks:
+  - {fileID: 114356092133747778}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2000
 --- !u!114 &114695442622508618
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -142,6 +271,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 156049
+--- !u!114 &114831687395828994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/ambience_loop
+  guid: ba090e36983d2b4bad3450fce27596b1
+  Banks:
+  - {fileID: 114356092133747778}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 156049
 --- !u!114 &114852103145164812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -164,6 +315,24 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 8186
+--- !u!114 &114864614732900110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: Assets\Sounds\SFX_M&V\Build\Desktop\Master Bank.strings.bank
+  lastModified: 636558566213096414
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 988
+  Exists: 1
 --- !u!114 &114952397358542202
 MonoBehaviour:
   m_ObjectHideFlags: 0
