@@ -1,7 +1,7 @@
 version: 2
 importPivots: 1
 tpsheetFileNames:
-- Assets/Textures/Background Environment/environment_textures_01.tpsheet
+- Assets/Background Environment/environment_textures_01.tpsheet
 - Assets/Textures/mage_animations_01.tpsheet
 - Assets/Textures/misc._game_assets_01.tpsheet
 - Assets/Textures/Projectiles/Wind sprites.tpsheet
@@ -10,7 +10,7 @@ tpsheetFileNames:
 - Assets/Textures/vfx_animations_fireball.tpsheet
 - Assets/Textures/vfx_animations_wind.tpsheet
 textureFileNames:
-- Assets/Textures/Background Environment/environment_textures_01.png
+- Assets/Background Environment/environment_textures_01.png
 - Assets/Textures/mage_animations_01.png
 - Assets/Textures/misc._game_assets_01.png
 - Assets/Textures/Projectiles/Wind sprites.png
@@ -19,7 +19,7 @@ textureFileNames:
 - Assets/Textures/vfx_animations_fireball.png
 - Assets/Textures/vfx_animations_wind.png
 normalmapFileNames:
-- Assets/Textures/Background Environment/environment_textures_01_n.png
+- Assets/Background Environment/environment_textures_01_n.png
 - 
 - 
 - 

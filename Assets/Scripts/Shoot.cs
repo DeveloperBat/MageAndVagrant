@@ -39,6 +39,9 @@ public class Shoot : MonoBehaviour {
         // Start with fireball preset \\
         rotationOffsetZ = 90f;
         projectileIndex = 0;
+
+        GameObject.Find("Projectiles").GetComponent<Animator>().SetInteger("projectileIndex", 0);
+
         GameObject.Find("UI Firespell").GetComponent<RectTransform>().localScale = scaleValue;
         GameObject.Find("UI Windspell").GetComponent<RectTransform>().localScale = new Vector3(1f, 1f, 1f);
         fireColor = GameObject.Find("UI Firespell").GetComponent<Image>().color;
@@ -95,6 +98,8 @@ public class Shoot : MonoBehaviour {
         {
             rotationOffsetZ = 90f;
             projectileIndex = 0;
+            GameObject.Find("Projectiles").GetComponent<Animator>().SetInteger("projectileIndex", 0);
+
 
             GameObject.Find("UI Firespell").GetComponent<RectTransform>().localScale = scaleValue;
             GameObject.Find("UI Windspell").GetComponent<RectTransform>().localScale = new Vector3(1f, 1f, 1f);
@@ -116,6 +121,8 @@ public class Shoot : MonoBehaviour {
         {
             rotationOffsetZ = 90f;
             projectileIndex = 1;
+            GameObject.Find("Projectiles").GetComponent<Animator>().SetInteger("projectileIndex", 1);
+
 
             GameObject.Find("UI Windspell").GetComponent<RectTransform>().localScale = scaleValue;
             GameObject.Find("UI Firespell").GetComponent<RectTransform>().localScale = new Vector3(1f, 1f, 1f);

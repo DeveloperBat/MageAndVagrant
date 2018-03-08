@@ -18,6 +18,7 @@ TagManager:
   - Lever
   - PressurePlate
   - Brazier
+  - ProjectileUI
   layers:
   - Default
   - TransparentFX
