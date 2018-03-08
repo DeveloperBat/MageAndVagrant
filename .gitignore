@@ -3,6 +3,7 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -24,6 +25,7 @@ ExportedObj/
 
 # Unity3D generated meta files
 *.pidb.meta
+*.pdb.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
@@ -32,9 +34,16 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-Assets/Plugins/fmod/StreamingAssets
-Assets/FMODStudioCache.asset*
-Assets/Plugins/fmod/Resources/FMODStudioSettings.asset*
-fmod_editor.log*
-fmod.log*
+# Include only the .meta files in specific folders
+*.meta
+!Assets/[Ee]ditor/**/*.meta
+!Assets/Editor Default Resources/**/*.meta
+!Assets/[Gg]izmos/**/*.meta
+!Assets/Plugins/**/*.meta
+!Assets/[Pp]refabs/**/*.meta
+!Assets/[Rr]esources/**/*.meta
+!Assets/[Ss]cenes/**/*.meta
+!Assets/[Ss]cripts/**/*.meta
+!Assets/Standard Assets/**/*.meta
+!Assets/StreamingAssets/**/*.meta
 
