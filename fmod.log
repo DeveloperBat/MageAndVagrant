@@ -8,7 +8,7 @@
 [LOG] Thread::initThread                       : Init FMOD stream thread. Priority: 2, Stack Size: 65536, Semaphore: No, Sleep Time: 10, Looping: Yes.
 [LOG] SystemI::DSPCodecPoolRegister            : register codec pool for pool type 5
 [LOG] Thread::initThread                       : Init FMOD mixer thread. Priority: 3, Stack Size: 49152, Semaphore: No, Sleep Time: 0, Looping: Yes.
-[LOG] AsyncManager::init                       : manager 000000005AED4798 isAsync 1 updatePeriod 0.02
+[LOG] AsyncManager::init                       : manager 000000009492D018 isAsync 1 updatePeriod 0.02
 [LOG] Thread::initThread                       : Init FMOD Studio update thread. Priority: 0, Stack Size: 65536, Semaphore: No, Sleep Time: 1, Looping: No.
 [LOG] AsyncManager::init                       : done
 [LOG] PlaybackSystem::init                     : 
@@ -21,96 +21,6 @@
 [LOG] Manager::readBank                        : fileversion = 100, compatVersion = 99 (oldest = 44, newest = 100)
 [LOG] Manager::readBank                        : fileversion = 100, compatVersion = 99 (oldest = 44, newest = 100)
 [LOG] PlaybackSystem::acquireMasterBus         : Setting master channel group format to 6
-[LOG] SystemI::createSoundInternal             : Create name='', mode=0x02000202
-[LOG] SystemI::createSoundInternal             : exinfo->cbsize             = 232
-[LOG] SystemI::createSoundInternal             : exinfo->length             = 3347520
-[LOG] SystemI::createSoundInternal             : exinfo->fileoffset         = 26816
-[LOG] SystemI::createSoundInternal             : exinfo->numsubsounds       = 1
-[LOG] SystemI::createSoundInternal             : exinfo->inclusionlist      = 00000000EE95F5FC
-[LOG] SystemI::createSoundInternal             : exinfo->inclusionlistnum   = 1
-[LOG] SystemI::createSoundInternal             : exinfo->suggestedsoundtype = 5
-[LOG] SystemI::createSoundInternal             : exinfo->useropen           = 00007FF986AB5EC0
-[LOG] SystemI::createSoundInternal             : exinfo->userclose          = 00007FF986AB5E90
-[LOG] SystemI::createSoundInternal             : exinfo->userread           = 00007FF986AB5F90
-[LOG] SystemI::createSoundInternal             : exinfo->userseek           = 00007FF986AB6040
-[LOG] SystemI::createSoundInternal             : exinfo->fileuserdata       = 000000009DBF01E8
-[LOG] SystemI::createSoundInternal             : exinfo->initialseekpostype = 1
-[LOG] SystemI::DSPCodecPoolRegister            : register codec pool for pool type 5
-[LOG] SystemI::createSoundInternal             : Sample 0/1: name='Fire Throw', format=2, channels=2, frequency=48000, lengthbytes=26048, lengthpcm=98236, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.931549.
-[LOG] SystemI::createSoundInternal             : Create name='', mode=0x02000202
-[LOG] SystemI::createSoundInternal             : exinfo->cbsize             = 232
-[LOG] SystemI::createSoundInternal             : exinfo->length             = 3347520
-[LOG] SystemI::createSoundInternal             : exinfo->fileoffset         = 26816
-[LOG] SystemI::createSoundInternal             : exinfo->numsubsounds       = 1
-[LOG] SystemI::createSoundInternal             : exinfo->inclusionlist      = 00000000EE95F5FC
-[LOG] SystemI::createSoundInternal             : exinfo->inclusionlistnum   = 1
-[LOG] SystemI::createSoundInternal             : exinfo->suggestedsoundtype = 5
-[LOG] SystemI::createSoundInternal             : exinfo->useropen           = 00007FF986AB5EC0
-[LOG] SystemI::createSoundInternal             : exinfo->userclose          = 00007FF986AB5E90
-[LOG] SystemI::createSoundInternal             : exinfo->userread           = 00007FF986AB5F90
-[LOG] SystemI::createSoundInternal             : exinfo->userseek           = 00007FF986AB6040
-[LOG] SystemI::createSoundInternal             : exinfo->fileuserdata       = 000000009DBF30A8
-[LOG] SystemI::createSoundInternal             : exinfo->initialseekpostype = 1
-[LOG] SystemI::DSPCodecPoolRegister            : register codec pool for pool type 5
-[LOG] SystemI::createSoundInternal             : Sample 0/1: name='Fire Projectile 2', format=2, channels=2, frequency=48000, lengthbytes=60960, lengthpcm=196472, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.652374.
-[LOG] SystemI::createSoundInternal             : Create name='', mode=0x02000202
-[LOG] SystemI::createSoundInternal             : exinfo->cbsize             = 232
-[LOG] SystemI::createSoundInternal             : exinfo->length             = 3347520
-[LOG] SystemI::createSoundInternal             : exinfo->fileoffset         = 26816
-[LOG] SystemI::createSoundInternal             : exinfo->numsubsounds       = 1
-[LOG] SystemI::createSoundInternal             : exinfo->inclusionlist      = 00000000EE95F5FC
-[LOG] SystemI::createSoundInternal             : exinfo->inclusionlistnum   = 1
-[LOG] SystemI::createSoundInternal             : exinfo->suggestedsoundtype = 5
-[LOG] SystemI::createSoundInternal             : exinfo->useropen           = 00007FF986AB5EC0
-[LOG] SystemI::createSoundInternal             : exinfo->userclose          = 00007FF986AB5E90
-[LOG] SystemI::createSoundInternal             : exinfo->userread           = 00007FF986AB5F90
-[LOG] SystemI::createSoundInternal             : exinfo->userseek           = 00007FF986AB6040
-[LOG] SystemI::createSoundInternal             : exinfo->fileuserdata       = 000000009DBEEA88
-[LOG] SystemI::createSoundInternal             : exinfo->initialseekpostype = 1
-[LOG] SystemI::DSPCodecPoolRegister            : register codec pool for pool type 5
-[LOG] SystemI::createSoundInternal             : Sample 0/1: name='Fire Impcact (Explosion)', format=2, channels=2, frequency=48000, lengthbytes=27200, lengthpcm=98236, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.966064.
-[LOG] SystemI::createSoundInternal             : Create name='', mode=0x02000202
-[LOG] SystemI::createSoundInternal             : exinfo->cbsize             = 232
-[LOG] SystemI::createSoundInternal             : exinfo->length             = 3347520
-[LOG] SystemI::createSoundInternal             : exinfo->fileoffset         = 26816
-[LOG] SystemI::createSoundInternal             : exinfo->numsubsounds       = 1
-[LOG] SystemI::createSoundInternal             : exinfo->inclusionlist      = 00000000EE95F5FC
-[LOG] SystemI::createSoundInternal             : exinfo->inclusionlistnum   = 1
-[LOG] SystemI::createSoundInternal             : exinfo->suggestedsoundtype = 5
-[LOG] SystemI::createSoundInternal             : exinfo->useropen           = 00007FF986AB5EC0
-[LOG] SystemI::createSoundInternal             : exinfo->userclose          = 00007FF986AB5E90
-[LOG] SystemI::createSoundInternal             : exinfo->userread           = 00007FF986AB5F90
-[LOG] SystemI::createSoundInternal             : exinfo->userseek           = 00007FF986AB6040
-[LOG] SystemI::createSoundInternal             : exinfo->fileuserdata       = 000000009DBEEA88
-[LOG] SystemI::createSoundInternal             : exinfo->initialseekpostype = 1
-[LOG] SystemI::DSPCodecPoolRegister            : register codec pool for pool type 5
-[LOG] SystemI::createSoundInternal             : Sample 0/1: name='Fire Impact', format=2, channels=2, frequency=48000, lengthbytes=27008, lengthpcm=98236, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.966064.
-[LOG] SoundI::release                          :  (000000009DC25598)
-[LOG] SoundI::release                          :     Fire Throw (000000005B044438)
-[LOG] SystemI::createSoundInternal             : Create name='', mode=0x02000202
-[LOG] SystemI::createSoundInternal             : exinfo->cbsize             = 232
-[LOG] SystemI::createSoundInternal             : exinfo->length             = 3347520
-[LOG] SystemI::createSoundInternal             : exinfo->fileoffset         = 26816
-[LOG] SystemI::createSoundInternal             : exinfo->numsubsounds       = 1
-[LOG] SystemI::createSoundInternal             : exinfo->inclusionlist      = 00000000EE95F5FC
-[LOG] SystemI::createSoundInternal             : exinfo->inclusionlistnum   = 1
-[LOG] SystemI::createSoundInternal             : exinfo->suggestedsoundtype = 5
-[LOG] SystemI::createSoundInternal             : exinfo->useropen           = 00007FF986AB5EC0
-[LOG] SystemI::createSoundInternal             : exinfo->userclose          = 00007FF986AB5E90
-[LOG] SystemI::createSoundInternal             : exinfo->userread           = 00007FF986AB5F90
-[LOG] SystemI::createSoundInternal             : exinfo->userseek           = 00007FF986AB6040
-[LOG] SystemI::createSoundInternal             : exinfo->fileuserdata       = 000000009DBF01E8
-[LOG] SystemI::createSoundInternal             : exinfo->initialseekpostype = 1
-[LOG] SystemI::DSPCodecPoolRegister            : register codec pool for pool type 5
-[LOG] SystemI::createSoundInternal             : Sample 0/1: name='Fire Throw', format=2, channels=2, frequency=48000, lengthbytes=26048, lengthpcm=98236, pcmblocksize=0, loopstart=0, loopend=0, mode=0x00000000, channelmask=0x00000000, channelorder=0, peakvolume=0.931549.
-[LOG] SoundI::release                          :  (000000009DC24A18)
-[LOG] SoundI::release                          :     Fire Projectile 2 (000000005B044C58)
-[LOG] SoundI::release                          :  (000000009DC24CF8)
-[LOG] SoundI::release                          :     Fire Throw (000000005B044438)
-[LOG] SoundI::release                          :  (000000009DC24B88)
-[LOG] SoundI::release                          :     Fire Impcact (Explosion) (000000005B044F98)
-[LOG] SoundI::release                          :  (000000009DC25148)
-[LOG] SoundI::release                          :     Fire Impact (000000005B0445D8)
 [LOG] Thread::callback                         : FMOD Studio update thread finished.
 [LOG] Thread::callback                         : FMOD Studio bank load thread finished.
 [LOG] Profile::disconnectAll                   : Profiler disconnecting all clients
