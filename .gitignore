@@ -24,6 +24,7 @@ ExportedObj/
 
 # Unity3D generated meta files
 *.pidb.meta
+*.pdb.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
@@ -31,24 +32,22 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-Assets/FMODStudioCache.asset
-Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
-fmod_editor.log
-fmod.log
-Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
-Assets/FMODStudioCache.asset
-Assets/Plugins/fmod/StreamingAssets.meta
-fmod.log
-<<<<<<< HEAD
-Assets/fmod.meta
-Assets/StreamingAssets/Master Bank.bank
-Assets/StreamingAssets/Master Bank.bank.meta
-Assets/StreamingAssets/Master Bank.strings.bank.meta
-Assets/StreamingAssets/Master Bank.strings.bank
-fmod_editor.log
-=======
-ProjectSettings/ProjectVersion.txt
-Assets/Resources/FMODStudioSettings.asset
->>>>>>> 51857683917741e2734535e4ca8970a129767eaf
-Assets/FMODStudioCache.asset
-Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
+
+# Include only the .meta files in specific folders
+*.meta
+!Assets/[Ee]ditor/**/*.meta
+!Assets/Editor Default Resources/**/*.meta
+!Assets/[Gg]izmos/**/*.meta
+!Assets/Plugins/**/*.meta
+!Assets/[Pp]refabs/**/*.meta
+!Assets/[Rr]esources/**/*.meta
+!Assets/[Ss]cenes/**/*.meta
+!Assets/[Ss]cripts/**/*.meta
+!Assets/Standard Assets/**/*.meta
+!Assets/StreamingAssets/**/*.meta
+
+#[merge]
+#    tool = unityyamlmerge
+#[mergetool "unityyamlmerge"]
+#    trustExitCode = false
+#    cmd = "C:/Program Files/Unity/Editor/Data/Tools/UnityYAMLMerge.exe" merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
