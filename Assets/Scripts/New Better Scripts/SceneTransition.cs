@@ -7,14 +7,17 @@ using UnityEngine.SceneManagement;
 public class SceneTransition : MonoBehaviour {
 
     public int sceneIndex;
+    public GameObject endGate;
 
     private Collider2D _collider;
     private int triggerCount;
+    private Gate _gate;
 
     private void Start()
     {
         _collider = GetComponent<Collider2D>();
         _collider.isTrigger = true;
+        _gate = endGate.GetComponent<Gate>();
     }
 
     private void Update()
@@ -22,6 +25,11 @@ public class SceneTransition : MonoBehaviour {
         if(triggerCount == 2)
         {
             SceneManager.LoadScene(sceneIndex);
+        }
+
+        if(_gate != null)
+        {
+            _collider.enabled = _gate.isOpen;
         }
     }
 
@@ -40,5 +48,4 @@ public class SceneTransition : MonoBehaviour {
             triggerCount -= 1;
         }
     }
-
 }

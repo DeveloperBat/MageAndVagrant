@@ -3556,6 +3556,31 @@ Prefab:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 755de1ab1c8a2fc40abc4200144b341d, type: 2}
+    - target: {fileID: 114077102122724606, guid: 78a585d977b9ff74cbfc5646e535aa5a,
+        type: 2}
+      propertyPath: movementSpeed
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114077102122724606, guid: 78a585d977b9ff74cbfc5646e535aa5a,
+        type: 2}
+      propertyPath: maxMovementSpeed
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 114077102122724606, guid: 78a585d977b9ff74cbfc5646e535aa5a,
+        type: 2}
+      propertyPath: acceleration
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114077102122724606, guid: 78a585d977b9ff74cbfc5646e535aa5a,
+        type: 2}
+      propertyPath: deacceleration
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 50946598062064922, guid: 78a585d977b9ff74cbfc5646e535aa5a,
+        type: 2}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 78a585d977b9ff74cbfc5646e535aa5a, type: 2}
   m_IsPrefabParent: 0
@@ -4149,6 +4174,11 @@ Prefab:
         type: 2}
       propertyPath: m_ColliderMask.m_Bits
       value: 4294950143
+      objectReference: {fileID: 0}
+    - target: {fileID: 50273953163437720, guid: d029caac418c69141bb84286e9de9470,
+        type: 2}
+      propertyPath: m_CollisionDetection
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d029caac418c69141bb84286e9de9470, type: 2}
@@ -5317,6 +5347,11 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!1 &1432139812 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1211420521394882, guid: d1934f4e7b9b5bd449c519d4a33b98c3,
+    type: 2}
+  m_PrefabInternal: {fileID: 2015361512}
 --- !u!4 &1468526519 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 3af9ceae4fdb84e4089e7b91b831e285, type: 3}
@@ -5392,6 +5427,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1488320405}
   - component: {fileID: 1488320406}
+  - component: {fileID: 1488320407}
   m_Layer: 0
   m_Name: THE DOOR!_00000
   m_TagString: Untagged
@@ -5456,6 +5492,23 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!114 &1488320407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1488320404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58f516520f3056c41a86413414911df2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isOpen: 0
+  liftOnOpen: 0
+  liftHeight: 0
+  liftSmooth: 0
+  triggers:
+  - {fileID: 1432139812}
 --- !u!4 &1490454412 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4889578842775544, guid: 55b6bf6d082b7d14caa851ddf4a273f8,
@@ -6010,10 +6063,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOpen: 0
+  liftOnOpen: 0
   liftHeight: 15
   liftSmooth: 0.5
-  openDelay: 0
-  closeDelay: 0
   triggers:
   - {fileID: 1357861409}
 --- !u!212 &1596549905
@@ -7665,10 +7717,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOpen: 0
+  liftOnOpen: 0
   liftHeight: 15
   liftSmooth: 0.5
-  openDelay: 0
-  closeDelay: 0
   triggers:
   - {fileID: 1946937227}
 --- !u!212 &2018445326
