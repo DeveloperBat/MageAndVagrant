@@ -23,7 +23,6 @@ GameObject:
   - component: {fileID: 124746007047329246}
   - component: {fileID: 81318100331926796}
   - component: {fileID: 114332448684014762}
-  - component: {fileID: 114679990222438170}
   - component: {fileID: 114057321496537024}
   - component: {fileID: 114471945397960854}
   - component: {fileID: 114607791828210398}
@@ -113,15 +112,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4fa280a1ea0a75140ae19abbd560e534, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player1: {fileID: 0}
-  player2: {fileID: 0}
+  player1: {fileID: 1321322026462638, guid: 78a585d977b9ff74cbfc5646e535aa5a, type: 2}
+  player2: {fileID: 1332555092052024, guid: d029caac418c69141bb84286e9de9470, type: 2}
   minSize: 10
   maxSize: 80
   minXPosition: -10
   minYPosition: 0
   boundsYAdjust: 1.6
   boundsXAdjust: 1
-  yDistanceMultiplier: 10
+  yDistanceMultiplier: 1
   yDistanceTrigger: 1
   smoothnessMovement: 0.1
   smoothnessZoom: 0.5
@@ -154,18 +153,6 @@ MonoBehaviour:
   player2: {fileID: 0}
   deathDelay: 0
   respawnDelay: 0
---- !u!114 &114679990222438170
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1273775387416716}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 86c6556701af9e04380698b89f691b6e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ListenerNumber: 0
 --- !u!124 &124746007047329246
 Behaviour:
   m_ObjectHideFlags: 1
