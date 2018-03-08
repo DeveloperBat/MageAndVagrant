@@ -6,6 +6,9 @@ using UnityEngine;
 public class ManualMovement : MonoBehaviour {
 
     public float movementSpeed;
+    public float maxMovementSpeed;
+    public float acceleration;
+    public float deacceleration;
     public float jumpForce;
     public float fallGravity;
     public float violentVelocity;
@@ -125,7 +128,34 @@ public class ManualMovement : MonoBehaviour {
 
     private void CharMove()
     {
-        if(Input.GetAxis(_axisNameHorizontal) > 0)
+        //Acceleration Code
+        if (Input.GetAxis(_axisNameHorizontal) < 0)
+        {
+            movementSpeed = movementSpeed - acceleration * Time.deltaTime;
+        }
+        else if (Input.GetAxis(_axisNameHorizontal) > 0)
+        {
+            movementSpeed = movementSpeed + acceleration * Time.deltaTime;
+        }
+        else
+        {
+            if (movementSpeed > deacceleration * Time.deltaTime)
+            {
+                movementSpeed = movementSpeed - deacceleration * Time.deltaTime;
+            }
+            else if (movementSpeed < -deacceleration * Time.deltaTime)
+            {
+                movementSpeed = movementSpeed + deacceleration * Time.deltaTime;
+            }
+            else
+            {
+                movementSpeed = 0;
+            }
+        }
+
+        transform.position = new Vector3(transform.position.x + movementSpeed, _rigidBody.transform.position.y, _rigidBody.transform.position.z);
+
+        /*if(Input.GetAxis(_axisNameHorizontal) > 0)
         {
             Vector3 rbVelocity = _rigidBody.velocity;
             rbVelocity.x = movementSpeed;
@@ -136,7 +166,7 @@ public class ManualMovement : MonoBehaviour {
             Vector3 rbVelocity = _rigidBody.velocity;
             rbVelocity.x = -movementSpeed;
             _rigidBody.velocity = rbVelocity;
-        }
+        }*/
     }
 
     private void CharFall()

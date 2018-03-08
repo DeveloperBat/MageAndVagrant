@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EventFolder" id="{8c71c7a0-a559-4dda-b749-ae410fe3239c}">
+        <property name="name">
+            <value>Ballista Trap</value>
+        </property>
+        <relationship name="folder">
+            <destination>{dfc85424-90ac-469e-96a5-e18eddb69caf}</destination>
+        </relationship>
+    </object>
+</objects>

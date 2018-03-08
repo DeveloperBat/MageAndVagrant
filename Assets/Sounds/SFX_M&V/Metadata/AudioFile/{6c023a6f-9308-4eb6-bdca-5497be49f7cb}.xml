@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="AudioFile" id="{6c023a6f-9308-4eb6-bdca-5497be49f7cb}">
         <property name="assetPath">
-            <value>Ambience/ambience_dungeon.wav</value>
+            <value>ambience_dungeon.wav</value>
         </property>
         <property name="frequencyInKHz">
             <value>44.0999985</value>
