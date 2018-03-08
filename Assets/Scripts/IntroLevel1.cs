@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Intro : MonoBehaviour {
+public class IntroLevel1 : MonoBehaviour {
 
     DialogueSystem ds;
     GameObject vagrant;

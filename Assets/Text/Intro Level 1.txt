@@ -37,15 +37,6 @@
 (Mage)(Default)(255 255 255)(0.05)(2)... and to do some drawings.
 (Vagrant)(Default)(255 255 255)(0.05)(2)The one up there? 
 (Vagrant)(Default)(255 255 255)(0.05)(2)Don't worry! I'll get it for you.
-
-(Mage)(Default)(255 255 255)(0.05)(2)No, no, no, do not get any ideas. 
-(Mage)(Default)(255 255 255)(0.05)(2)I am not even supposed to talk to the prisoners. 
-(Mage)(Default)(255 255 255)(0.05)(2)I just came here to get my crayon. And to do some drawings. 
-(Mage)(Default)(255 255 255)(0.05)(2)The ladder to where I was painting broke the last time I was here. 
-(Mage)(Default)(255 255 255)(0.05)(2)So I wanted to wait until everyone had gone to get it. 
-(Mage)(Default)(255 255 255)(0.05)(2)I’m not very good at climbing so I’ll probably look silly…
-(Vagrant)(Default)(255 255 255)(0.05)(2)The one up there? 
-(Vagrant)(Default)(255 255 255)(0.05)(2)Don’t worry! I’ll get it for you.
 //När isoleringsdörren är stängd
 
 #Tutorial01_02_gate
