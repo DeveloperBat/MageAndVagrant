@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 0cd4a9549aa49794a8d30a75e941595d
+timeCreated: 1520435366
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: vfx_animations_fireball
+    21300002: Aim indicator Ghost-Aim-Indicator-Ghost-01
+    21300004: Aim indicator Ghost-Aim-Indicator-Ghost-02
+    21300006: Aim indicator Ghost-Aim-Indicator-Ghost-03
+    21300008: Aim indicator Ghost-Aim-Indicator-Ghost-04
+    21300010: Aim indicator Ghost-Aim-Indicator-Ghost-05
+    21300012: Aim indicator Ghost-Aim-Indicator-Ghost-06
+    21300014: Aim indicator Ghost-Aim-Indicator-Ghost-07
+    21300016: Aim indicator Ghost-Aim-Indicator-Ghost-08
+    21300018: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-01
+    21300020: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-02
+    21300022: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-03
+    21300024: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-04
+    21300026: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-05
+    21300028: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-06
+    21300030: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-07
+    21300032: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-08
+    21300034: Flame Sprite - Charging PNG-Flame-Sprite-Charging-01
+    21300036: Flame Sprite - Charging PNG-Flame-Sprite-Charging-02
+    21300038: Flame Sprite - Charging PNG-Flame-Sprite-Charging-03
+    21300040: Flame Sprite - Charging PNG-Flame-Sprite-Charging-04
+    21300042: Flame Sprite - Charging PNG-Flame-Sprite-Charging-05
+    21300044: Flame Sprite - Charging PNG-Flame-Sprite-Charging-06
+    21300046: Flame Sprite - Charging PNG-Flame-Sprite-Charging-07
+    21300048: Flame Sprite - Charging PNG-Flame-Sprite-Charging-08
+    21300050: Flame Sprite - Charging PNG-Flame-Sprite-Charging-09
+    21300052: Flame Sprite - Charging PNG-Flame-Sprite-Charging-10
+    21300054: Flame Sprite - Charging PNG-Flame-Sprite-Charging-11
+    21300056: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-01
+    21300058: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-02
+    21300060: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-03
+    21300062: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-04
+    21300064: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-05
+    21300066: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-06
+    21300068: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-07
+    21300070: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-08
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aim indicator Ghost-Aim-Indicator-Ghost-01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1574
+        width: 381
+        height: 797
+      alignment: 9
+      pivot: {x: 0.5249344, y: 0.6148055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Aim indicator Ghost-Aim-Indicator-Ghost-02
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1944
+        width: 345
+        height: 706
+      alignment: 9
+      pivot: {x: 0.46376812, y: 0.6855524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Aim indicator Ghost-Aim-Indicator-Ghost-03
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 967
+        width: 367
+        height: 727
+      alignment: 9
+      pivot: {x: 0.4359673, y: 0.6616231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Aim indicator Ghost-Aim-Indicator-Ghost-04
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1717
+        width: 371
+        height: 710
+      alignment: 9
+      pivot: {x: 0.43665767, y: 0.67887324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Aim indicator Ghost-Aim-Indicator-Ghost-05
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 3364
+        width: 388
+        height: 731
+      alignment: 9
+      pivot: {x: 0.43556702, y: 0.65800273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Aim indicator Ghost-Aim-Indicator-Ghost-06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 412
+        height: 722
+      alignment: 9
+      pivot: {x: 0.46601942, y: 0.67451525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Aim indicator Ghost-Aim-Indicator-Ghost-07
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 18
+        width: 400
+        height: 755
+      alignment: 9
+      pivot: {x: 0.43, y: 0.6463576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Aim indicator Ghost-Aim-Indicator-Ghost-08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1550
+        width: 382
+        height: 821
+      alignment: 9
+      pivot: {x: 0.44240838, y: 0.60779536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-01
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1981
+        width: 290
+        height: 669
+      alignment: 9
+      pivot: {x: 0.43793103, y: 0.26158446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-02
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 2607
+        width: 248
+        height: 462
+      alignment: 9
+      pivot: {x: 0.63709676, y: 0.34199134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-03
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 3546
+        width: 203
+        height: 549
+      alignment: 9
+      pivot: {x: 0.5763547, y: 0.30783242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-04
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 3071
+        width: 253
+        height: 473
+      alignment: 9
+      pivot: {x: 0.6007905, y: 0.34460887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-05
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 2455
+        width: 293
+        height: 479
+      alignment: 9
+      pivot: {x: 0.57337886, y: 0.32150313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-06
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 2936
+        width: 305
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5344262, y: 0.31060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-07
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1266
+        width: 328
+        height: 676
+      alignment: 9
+      pivot: {x: 0.5518293, y: 0.26183432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging LOOP PNG-Flame-Sprite-Charging-LOOP-08
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 290
+        width: 329
+        height: 680
+      alignment: 9
+      pivot: {x: 0.6231003, y: 0.2617647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-01
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 3561
+        width: 871
+        height: 534
+      alignment: 9
+      pivot: {x: 0.45694605, y: 0.5355805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-02
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 2953
+        width: 654
+        height: 606
+      alignment: 9
+      pivot: {x: 0.6085627, y: 0.5561056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-03
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 2523
+        width: 474
+        height: 428
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.60280377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-04
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 3388
+        width: 675
+        height: 707
+      alignment: 9
+      pivot: {x: 0.43555555, y: 0.6138614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-05
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2429
+        width: 779
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5648267, y: 0.59899116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2373
+        width: 726
+        height: 849
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.5689046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3224
+        width: 799
+        height: 871
+      alignment: 9
+      pivot: {x: 0.5494368, y: 0.5740528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-08
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2720
+        width: 694
+        height: 666
+      alignment: 9
+      pivot: {x: 0.49567723, y: 0.5750751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-09
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 3466
+        width: 712
+        height: 629
+      alignment: 9
+      pivot: {x: 0.45646068, y: 0.6406995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-10
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 2496
+        width: 190
+        height: 492
+      alignment: 9
+      pivot: {x: 0.52105266, y: 0.37804878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Charging PNG-Flame-Sprite-Charging-11
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 2990
+        width: 198
+        height: 569
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.33040422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 775
+        width: 381
+        height: 797
+      alignment: 9
+      pivot: {x: 0.5249344, y: 0.6148055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-02
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 264
+        width: 345
+        height: 706
+      alignment: 9
+      pivot: {x: 0.46376812, y: 0.6855524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-03
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 238
+        width: 367
+        height: 727
+      alignment: 9
+      pivot: {x: 0.4359673, y: 0.6616231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-04
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2652
+        width: 371
+        height: 710
+      alignment: 9
+      pivot: {x: 0.43665767, y: 0.67887324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-05
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1696
+        width: 388
+        height: 731
+      alignment: 9
+      pivot: {x: 0.43556702, y: 0.65800273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-06
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 972
+        width: 412
+        height: 722
+      alignment: 9
+      pivot: {x: 0.46601942, y: 0.67451525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-07
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 3340
+        width: 400
+        height: 755
+      alignment: 9
+      pivot: {x: 0.43, y: 0.6463576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Flame Sprite - Projectile PNG-Flame-Sprite-Projectile-08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 727
+        width: 382
+        height: 821
+      alignment: 9
+      pivot: {x: 0.44240838, y: 0.60779536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

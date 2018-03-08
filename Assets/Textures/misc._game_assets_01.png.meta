@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: cc27f149229b36a428a1d31c960d9623
+timeCreated: 1520435381
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: misc._game_assets_01
+    21300002: altar
+    21300004: barrel
+    21300006: bench
+    21300008: BOOK
+    21300010: bowl
+    21300012: box
+    21300014: Bridge Support Right
+    21300016: Bridge Supports Left
+    21300018: broken ladder
+    21300020: broken pot
+    21300022: cauldron
+    21300024: chain
+    21300026: Cpapper1
+    21300028: Cpapper2
+    21300030: Cpapper3
+    21300032: curtain1
+    21300034: curtain2
+    21300036: dice1
+    21300038: dice2
+    21300040: gate
+    21300042: harp
+    21300044: Hay Arnold
+    21300046: lute
+    21300048: mattress
+    21300050: nest
+    21300052: pile of books
+    21300054: pile of books2
+    21300056: pile of papper
+    21300058: pillar
+    21300060: plate
+    21300062: prison bed NO C
+    21300064: prison bed-left chain extention
+    21300066: prison bed-right chain extention
+    21300068: prison bed
+    21300070: ROCK PILE
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: altar
+      rect:
+        serializedVersion: 2
+        x: 5647
+        y: 32
+        width: 1979
+        height: 1226
+      alignment: 9
+      pivot: {x: 0.49974734, y: 0.7585644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrel
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2142
+        width: 1301
+        height: 1918
+      alignment: 9
+      pivot: {x: 0.4511914, y: 0.50938475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bench
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 7444
+        width: 2004
+        height: 747
+      alignment: 9
+      pivot: {x: 0.506986, y: 0.79250336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BOOK
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 7
+        width: 766
+        height: 278
+      alignment: 9
+      pivot: {x: 0.54177547, y: 2.0395684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bowl
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 5260
+        width: 1443
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5176715, y: 0.51180124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: box
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4062
+        width: 2048
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bridge Support Right
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 4068
+        width: 1880
+        height: 971
+      alignment: 9
+      pivot: {x: 0.45531914, y: 0.6395469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bridge Supports Left
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 5041
+        width: 1882
+        height: 974
+      alignment: 9
+      pivot: {x: 0.544102, y: 0.637577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: broken ladder
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 38
+        width: 1654
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5259976, y: 0.76857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: broken pot
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 2663
+        width: 1606
+        height: 1483
+      alignment: 9
+      pivot: {x: 0.55417186, y: 0.5118004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cauldron
+      rect:
+        serializedVersion: 2
+        x: 4738
+        y: 3040
+        width: 1347
+        height: 1026
+      alignment: 9
+      pivot: {x: 0.44691908, y: 0.8411306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chain
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 6663
+        width: 198
+        height: 1528
+      alignment: 9
+      pivot: {x: -0.060606062, y: 0.5209424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cpapper1
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 1260
+        width: 1307
+        height: 1401
+      alignment: 9
+      pivot: {x: 0.43840858, y: 0.5010707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cpapper2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 287
+        width: 1371
+        height: 1853
+      alignment: 9
+      pivot: {x: 0.4558716, y: 0.5526174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cpapper3
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 4589
+        width: 1697
+        height: 1659
+      alignment: 9
+      pivot: {x: 0.5014732, y: 0.4996986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: curtain1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6112
+        width: 671
+        height: 2079
+      alignment: 9
+      pivot: {x: 0.5067064, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: curtain2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 232
+        width: 651
+        height: 1908
+      alignment: 9
+      pivot: {x: 0.50844854, y: 0.4696017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dice1
+      rect:
+        serializedVersion: 2
+        x: 4738
+        y: 7130
+        width: 1004
+        height: 1061
+      alignment: 9
+      pivot: {x: 0.50298804, y: 0.43166825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dice2
+      rect:
+        serializedVersion: 2
+        x: 4738
+        y: 6067
+        width: 1004
+        height: 1061
+      alignment: 9
+      pivot: {x: 0.50298804, y: 0.43166825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gate
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 6250
+        width: 2048
+        height: 1941
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5275631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: harp
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 6676
+        width: 1370
+        height: 1515
+      alignment: 9
+      pivot: {x: 0.42262775, y: 0.5148515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hay Arnold
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 2095
+        width: 1198
+        height: 943
+      alignment: 9
+      pivot: {x: 0.5450751, y: 1.0551431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lute
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 4194
+        width: 659
+        height: 1064
+      alignment: 9
+      pivot: {x: 0.6798179, y: 0.7612782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mattress
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 6294
+        width: 1474
+        height: 367
+      alignment: 9
+      pivot: {x: 0.5122117, y: 0.8773842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: nest
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 6812
+        width: 1983
+        height: 630
+      alignment: 9
+      pivot: {x: 0.51386786, y: 1.2619047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pile of books
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 1193
+        width: 892
+        height: 1468
+      alignment: 9
+      pivot: {x: 0.9618834, y: 0.6260218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pile of books2
+      rect:
+        serializedVersion: 2
+        x: 6087
+        y: 3053
+        width: 1396
+        height: 1013
+      alignment: 9
+      pivot: {x: 0.49928367, y: 0.4471866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pile of papper
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 740
+        width: 1613
+        height: 1513
+      alignment: 9
+      pivot: {x: 0.550527, y: 0.6768011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pillar
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 4566
+        width: 376
+        height: 1682
+      alignment: 9
+      pivot: {x: 0.5093085, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plate
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 4148
+        width: 1644
+        height: 416
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41826922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: prison bed NO C
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 6017
+        width: 1964
+        height: 793
+      alignment: 9
+      pivot: {x: 0.50101835, y: 0.37957126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: prison bed-left chain extention
+      rect:
+        serializedVersion: 2
+        x: 7964
+        y: 7371
+        width: 104
+        height: 820
+      alignment: 9
+      pivot: {x: 8.663462, y: 0.064634144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: prison bed-right chain extention
+      rect:
+        serializedVersion: 2
+        x: 7851
+        y: 7356
+        width: 111
+        height: 835
+      alignment: 9
+      pivot: {x: -6.5315313, y: 0.07185629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: prison bed
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 114
+        width: 1962
+        height: 1077
+      alignment: 9
+      pivot: {x: 0.5005097, y: 0.28040853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ROCK PILE
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2255
+        width: 1824
+        height: 1805
+      alignment: 9
+      pivot: {x: 0.4506579, y: 0.5639889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
