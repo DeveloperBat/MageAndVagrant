@@ -18,6 +18,7 @@ TagManager:
   - Lever
   - PressurePlate
   - Brazier
+  - InteractableObject
   layers:
   - Default
   - TransparentFX
