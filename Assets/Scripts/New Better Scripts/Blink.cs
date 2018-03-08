@@ -86,7 +86,6 @@ public class Blink : MonoBehaviour {
                 float newvalueY = blinkRay.point.y - transform.position.y;
 
                 blink = new Vector3(newvalueX, newvalueY, 0);
-
                 Debug.DrawRay(transform.position, blink, Color.red);
             }
         }

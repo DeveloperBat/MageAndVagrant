@@ -24,6 +24,7 @@ ExportedObj/
 
 # Unity3D generated meta files
 *.pidb.meta
+*.pdb.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
@@ -31,9 +32,23 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-Assets/FMODStudioCache.asset
-Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
-fmod_editor.log
+
+# Include only the .meta files in specific folders
+*.meta
+!Assets/[Ee]ditor/**/*.meta
+!Assets/Editor Default Resources/**/*.meta
+!Assets/[Gg]izmos/**/*.meta
+!Assets/Plugins/**/*.meta
+!Assets/[Pp]refabs/**/*.meta
+!Assets/[Rr]esources/**/*.meta
+!Assets/[Ss]cenes/**/*.meta
+!Assets/[Ss]cripts/**/*.meta
+!Assets/Standard Assets/**/*.meta
+!Assets/StreamingAssets/**/*.meta
+
+#[merge]
+#    tool = unityyamlmerge
+#[mergetool "unityyamlmerge"]
+#    trustExitCode = false
+#    cmd = "C:/Program Files/Unity/Editor/Data/Tools/UnityYAMLMerge.exe" merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
 fmod.log
-Assets/Plugins/fmod/Resources/FMODStudioSettings.asset
-Assets/FMODStudioCache.asset

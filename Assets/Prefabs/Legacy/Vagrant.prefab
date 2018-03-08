@@ -221,9 +221,7 @@ MonoBehaviour:
   fallGravity: 40
   violentVelocity: 175
   player: 1
-  jumpObj:
-  - Ground
-  - Platform
+  jumpObj: []
   canJump: 0
   isGrounded: 0
   jumped: 0
