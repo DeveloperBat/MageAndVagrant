@@ -1,93 +1,17 @@
-#Tutorial01_01_intro
-(Vagrant)(Default)(255 255 255)(0.05)(0.8)How could this happen?
-(Vagrant)(Default)(255 255 255)(0.05)(0.5)The world needs a hero. 
-(Vagrant)(Default)(255 255 255)(0.05)(0.8)And here I am. 
-(Vagrant)(Default)(255 255 255)(0.1)(0.8)Stuck. 
-(Vagrant)(Default)(255 255 255)(0.1)(0.8)Alone. 
-(Vagrant)(Default)(255 255 255)(0.025)(0.8)What if they all disappear before I can save them. 
-(Vagrant)(Default)(255 255 255)(0.08)(0.8)Or worse.
-(Vagrant)(Default)(255 255 255)(0.025)(0.8)What if someone else saves them first…! 
-(Vagrant)(Default)(255 255 255)(0.025)(2)There isn't even anyone here to see how heroically I suffer.
-(Mage)(Default)(255 255 255)(0.03)(0.8)Oh-how.
-(Mage)(Default)(255 255 255)(0.03)(0.8)There is still someone here. 
-(Mage)(Default)(255 255 255)(0.03)(0.8)I thought everyone had left. 
-(Vagrant)(Default)(255 255 255)(0.06)(0.8)Not everyone.
-(Vagrant)(Default)(255 255 255)(0.06)(0.8)They forgot me.
-(Vagrant)(Default)(255 255 255)(0.08)(0.8) I think.
-(Vagrant)(Default)(255 255 255)(0.02)(0.8)But thank [Sylens] you are here!
-(Vagrant)(Default)(255 255 255)(0.035)(0.8)Are you one of the prison guards?
-(Mage)(Default)(255 255 255)(0.1)(0.8)Oh?
-(Mage)(Default)(255 255 255)(0.04)(0.8)You are not afraid of me? 
-(Mage)(Default)(255 255 255)(0.025)(0.8)But no. I am not a guard. I just live here. 
-(Vagrant)(Default)(255 255 255)(0.08)(1)Afraid? 
-(Vagrant)(Default)(255 255 255)(0.03)(1)I'm overjoyed! 
-(Vagrant)(Default)(255 255 255)(0.03)(0.8)Listen, my name is Louise. I'm a renowned hero.
-(Vagrant)(Default)(255 255 255)(0.03)(0.8)Some call me Louise the Brave. 
-(Vagrant)(Default)(255 255 255)(0.03)(2)You've probably heard of me. 
-(Mage)(Default)(255 255 255)(0.07)(2)Hrm, I have not. 
-(Mage)(Default)(255 255 255)(0.05)(2)My name is Leppie. 
-(Mage)(Default)(255 255 255)(0.05)(2)Maybe you have heard of me…?
-(Vagrant)(Default)(255 255 255)(0.05)(2)I'm afraid I haven't. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)But you seem like a good person, Leppie, and today is the day you too can do something great for the world!
-(Vagrant)(Default)(255 255 255)(0.05)(2)By letting me out.
-(Mage)(Default)(255 255 255)(0.05)(2)Oh no, no, no. 
-(Mage)(Default)(255 255 255)(0.05)(2)Please do not get any ideas. 
-(Mage)(Default)(255 255 255)(0.05)(2)I am not even supposed to talk to the prisoners. 
-(Mage)(Default)(255 255 255)(0.05)(2)I only came here to get my crayon...
-(Mage)(Default)(255 255 255)(0.05)(2)... and to do some drawings.
-(Vagrant)(Default)(255 255 255)(0.05)(2)The one up there? 
-(Vagrant)(Default)(255 255 255)(0.05)(2)Don't worry! I'll get it for you.
-//När isoleringsdörren är stängd
+#Tutorial03_01_walljump + fire spell
+//When Louise is standing in front the spike traps and have the “wall opening” above her. 
+(Vagrant)(Default)(255 255 255)(0.035)(1) By pressing space when I am close to a wall.
+(Vagrant)(Default)(255 255 255)(0.035)(1)I can wall jump my way up there.  
+(Mage)(Default)(255 255 255)(0.035)(1)Great! Then I can scroll up my spell wheel,
+(Mage)(Default)(255 255 255)(0.035)(1)Change to my fire spell and aim my staff towards you.
 
-#Tutorial01_02_gate
-(Vagrant)(Default)(255 255 255)(0.05)(2)Wait, the gate to this part of the cell is closed, I can’t get in. 
-(Mage)(Default)(255 255 255)(0.05)(2)It is a solitary holding. Only for the most unruly prisoners. 
-(Mage)(Default)(255 255 255)(0.05)(2)I can open it with this pressure plate.
-(Vagrant)(Default)(255 255 255)(0.05)(2)And that is where you do your drawings…?
+#Tutorial03_02_shieldreflect
+//When Louise is standing on one of the two platforms (to the left) where she is able to reflect the fire spell onto the brazier. 
+(Vagrant)(Default)(255 255 255)(0.035)(1)Smart! Then I will try reflecting it,
+(Vagrant)(Default)(255 255 255)(0.035)(1)Using my shield by pressing Q.
+(Vagrant)(Default)(255 255 255)(0.035)(1)Then aim towards the brazier using W and S.
 
-//(Louise tar kritan)
-
-#Tutorial01_03_chalk
-(Vagrant)(Default)(255 255 255)(0.05)(2)Got it! 
-(Vagrant)(Default)(255 255 255)(0.05)(2)Well, there it is! Quest completed. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)And as every quest constitutes a reward, I humbly suggest you let me out. 
-(Mage)(Default)(255 255 255)(0.05)(2)Hrmm. Very well then. I want my crayon after all. 
-(Mage)(Default)(255 255 255)(0.05)(2)And purely by observation, you do not seem very dangerous. 
-(Mage)(Default)(255 255 255)(0.05)(2)The plate behind this one opens the door. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)I hope that’s a compliment. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)But yes, I’m actually somewhat of a pacifist. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)A Heroic pacifist. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)There are actually dozens of us out in the world. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)Well, at least one. 
-
-#Tutorial01_04_closed
-
-(Vagrant)(Default)(255 255 255)(0.05)(2)… Wait. The door’s not opening. 
-(Mage)(Default)(255 255 255)(0.05)(2)Hrm, correct. 
-(Mage)(Default)(255 255 255)(0.05)(2)But I have already analyzed the problem and the deduced the reason. 
-(Mage)(Default)(255 255 255)(0.05)(2)It is stuck. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)Brilliant. But how do we get it open?
-(Vagrant)(Default)(255 255 255)(0.05)(2)I’m, um, not that strong. So I don’t think I can bend it. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)You see, in my adventures I rather use my wit to-
-(Mage)(Default)(255 255 255)(0.05)(2)Oh. Do not worry. I can melt the steel with my fireball spell. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)Wait a moment. You’re a wizard??
-(Mage)(Default)(255 255 255)(0.05)(2)Yes, yes. I know three spells. 
-(Mage)(Default)(255 255 255)(0.05)(2)But this is the best one. 
-(Mage)(Default)(255 255 255)(0.05)(2)All I have to do is press ctrl. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)Wait…!
-
-#Tutorial01_05_fireball
-
-(Vagrant)(Default)(255 255 255)(0.05)(2)By [god], you almost massacred me! 
-(Mage)(Default)(255 255 255)(0.05)(2)Yes, very interesting! The force of my spell was strong enough to blast the gate open rather than melting it. 
-(Mage)(Default)(255 255 255)(0.05)(2)I have always wanted to try that. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)Try what?? Killing a poor (heroically) defenseless woman?
-(Mage)(Default)(255 255 255)(0.05)(2)Oh.
-(Mage)(Default)(255 255 255)(0.05)(2)I am sorry. 
-(Mage)(Default)(255 255 255)(0.05)(2)I did not mean to scare you. 
-(Mage)(Default)(255 255 255)(0.05)(2)I only wanted to help.
-(Mage)(Default)(255 255 255)(0.05)(2)… And see if I could superheat my fireball to reach the melting point of steel.
-(Mage)(Default)(255 255 255)(0.05)(2)I am sorry…
-(Vagrant)(Default)(255 255 255)(0.05)(2)Well, I am alright, so…
-(Vagrant)(Default)(255 255 255)(0.05)(2)Show me how to get out of this dungeon and I’ll forgive you. 
-(Vagrant)(Default)(255 255 255)(0.05)(2)How’s that?
+#Tutorial03_03_blink
+//Plays right after the brazier has been lit.
+(Mage)(Default)(255 255 255)(0.035)(1) Now that you have lit the brazier,
+(Mage)(Default)(255 255 255)(0.035)(1)I will blink through these spike traps by pressing ctrl.

@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 114353632960476720}
   m_Layer: 0
   m_Name: Top
-  m_TagString: Wall
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -131,8 +131,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1793412651037076}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -175.99997, y: 0.5, z: 0.6}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 99.44, y: 0, z: 0.62}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4558913270975258}
@@ -162,8 +162,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1648306454341436}
   m_LocalRotation: {x: 0.000001809995, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 142.08, y: 26.88, z: 4.51}
-  m_LocalScale: {x: 0.64, y: 5.12, z: 5.12}
+  m_LocalPosition: {x: 142.08, y: 25.951, z: 4.51}
+  m_LocalScale: {x: 0.64, y: 4.1905956, z: 5.1200047}
   m_Children: []
   m_Father: {fileID: 4463787230820710}
   m_RootOrder: 3
@@ -324,7 +324,7 @@ EdgeCollider2D:
   m_GameObject: {fileID: 1327628061847468}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 741558c46b5eb864789ccf2562e2bddd, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -368,11 +368,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isOpen: 0
+  liftOnOpen: 1
   liftHeight: 15
   liftSmooth: 0.5
-  openDelay: 0
-  closeDelay: 0
-  triggers: []
+  triggers:
+  - {fileID: 0}
 --- !u!114 &114785688558124728
 MonoBehaviour:
   m_ObjectHideFlags: 1

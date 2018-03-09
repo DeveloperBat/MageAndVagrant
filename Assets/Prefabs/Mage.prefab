@@ -102,7 +102,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!61 &61359324969535778
 BoxCollider2D:
@@ -155,7 +155,7 @@ Animator:
   m_GameObject: {fileID: 1521662482147864}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 755de1ab1c8a2fc40abc4200144b341d, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -186,9 +186,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 0
-  maxMovementSpeed: 10
-  acceleration: 10
-  deacceleration: 10
+  maxMovementSpeed: 1
+  acceleration: 3
+  deacceleration: 5
   jumpForce: 0
   fallGravity: 50
   violentVelocity: 50
@@ -270,7 +270,7 @@ MonoBehaviour:
   difference: {x: 0, y: 0, z: 0}
   canShoot: 1
   rotation_z: 0
-  externalController: 0
+  externalController: 1
   aimingMouse: 1
 --- !u!114 &114699456378400422
 MonoBehaviour:
@@ -403,7 +403,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 148.2, y: 11.8}
+  m_AnchoredPosition: {x: 31.2, y: 11.8}
   m_SizeDelta: {x: 0.17, y: 0.23}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224451992454773072
