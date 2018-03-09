@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Animator))]
-[RequireComponent(typeof(FindCharacter))]
+//[RequireComponent(typeof(FindCharacter))]
 [RequireComponent(typeof(Rigidbody2D))]
 [HelpURL("https://www.youtube.com/watch?v=dQw4w9WgXcQ")]
 public class Blink : MonoBehaviour {
