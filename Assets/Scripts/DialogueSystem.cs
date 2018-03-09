@@ -61,9 +61,17 @@ public class DialogueSystem : MonoBehaviour {
         return isWriting;
     }
 
+    private void ResetDialogue()
+    {
+        StopAllCoroutines();
+        canvasDialogue.alpha = 0;
+        textDialogue.text = "";
+    }
+
     public void PrintDialogue(string keyword)
     {
         isWriting = true;
+        ResetDialogue();
         List<string> preLines = GetDialogue(keyword);
         List<Line> lines = GetLines(preLines);
         StartCoroutine(PrintLines(lines));
