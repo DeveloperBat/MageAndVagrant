@@ -234,6 +234,7 @@ MonoBehaviour:
   - Spike
   interactables:
   - Lever
+  - InteractableObject
 --- !u!114 &114802742955162238
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -386,7 +387,7 @@ PlatformEffector2D:
   m_UseColliderMask: 1
   m_ColliderMask:
     serializedVersion: 2
-    m_Bits: 4294950143
+    m_Bits: 4294940872
   m_RotationalOffset: -90
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
