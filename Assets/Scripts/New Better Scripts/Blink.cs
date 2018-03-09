@@ -33,6 +33,7 @@ public class Blink : MonoBehaviour {
     private float floatDuration;
     #endregion
 
+    LayerMask mask = ~(1 << 8);
 
     void Start ()
     {
@@ -76,10 +77,11 @@ public class Blink : MonoBehaviour {
 
         blink.x = blink.x * xDir;
 
-        blinkRay = Physics2D.Raycast(transform.position, blink, distance, 8);
+        blinkRay = Physics2D.Raycast(transform.position, blink, distance, mask);
 
         if (blinkRay.collider != null)
         {
+            Debug.Log("Nuddar: " +  blinkRay.collider.name);
             if (blinkRay.collider.tag == "Wall") // Kan ändras beroende på vad man ska blinka igenom.
             {
                 float newvalueX = blinkRay.point.x - transform.position.x;
