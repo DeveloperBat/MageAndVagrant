@@ -1,0 +1,82 @@
+//Spelas direct I början.
+#Tutorial01_01_intro
+(Vagrant)(Default)(255 255 255)(0.045)(1)How could this happen?
+(Vagrant)(Default)(255 255 255)(0.045)(1)The world needs a hero. 
+(Vagrant)(Default)(255 255 255)(0.045)(1)And here I am. 
+(Vagrant)(Default)(255 255 255)(0.1)(1)Stuck. 
+(Vagrant)(Default)(255 255 255)(0.1)(1)Alone. 
+(Vagrant)(Default)(255 255 255)(0.025)(1)What if they all disappear before I can save them. 
+(Vagrant)(Default)(255 255 255)(0.08)(1)Or worse.
+(Vagrant)(Default)(255 255 255)(0.025)(1)What if someone else saves them first…! 
+(Vagrant)(Default)(255 255 255)(0.025)(2)There isn't even anyone here to see how heroically I suffer.
+(Mage)(Default)(255 255 255)(0.035)(1)Oh-how.
+(Mage)(Default)(255 255 255)(0.035)(1)There is still someone here. 
+(Mage)(Default)(255 255 255)(0.035)(1)I thought everyone had left. 
+(Vagrant)(Default)(255 255 255)(0.06)(1)Not everyone.
+(Vagrant)(Default)(255 255 255)(0.06)(1)They forgot me.
+(Vagrant)(Default)(255 255 255)(0.08)(1) I think.
+(Vagrant)(Default)(255 255 255)(0.03)(1)But thank [Sylens] you are here!
+(Vagrant)(Default)(255 255 255)(0.035)(1)Are you one of the prison guards?
+(Mage)(Default)(255 255 255)(0.1)(1)Oh?
+(Mage)(Default)(255 255 255)(0.035)(1)You are not afraid of me? 
+(Mage)(Default)(255 255 255)(0.04)(1)But no. I am not a guard. 
+(Mage)(Default)(255 255 255)(0.035)(1)I just live here.
+(Vagrant)(Default)(255 255 255)(0.08)(1)Afraid? 
+(Vagrant)(Default)(255 255 255)(0.03)(1)I'm overjoyed! 
+(Vagrant)(Default)(255 255 255)(0.035)(0.8)Listen, my name is Louise.
+(Vagrant)(Default)(255 255 255)(0.035)(1)Some call me Louise the Brave. 
+(Vagrant)(Default)(255 255 255)(0.035)(1)You've probably heard of me. 
+(Mage)(Default)(255 255 255)(0.05)(1)Hrm, I have not. 
+(Mage)(Default)(255 255 255)(0.04)(1)My name is Leppie. 
+(Mage)(Default)(255 255 255)(0.04)(1)Maybe you have heard of me…?
+(Vagrant)(Default)(255 255 255)(0.05)(1)I'm afraid I haven't. 
+(Vagrant)(Default)(255 255 255)(0.04)(0.8)But you seem like a good person, Leppie.
+(Vagrant)(Default)(255 255 255)(0.035)(1)And today, you can do something great for the world!
+(Vagrant)(Default)(255 255 255)(0.035)(1)By letting me out.
+(Mage)(Default)(255 255 255)(0.035)(1)Oh no, no, no. 
+(Mage)(Default)(255 255 255)(0.035)(1)Please do not get any ideas. 
+(Mage)(Default)(255 255 255)(0.035)(1)I am not even supposed to talk to the prisoners. 
+(Mage)(Default)(255 255 255)(0.04)(1)I only came here to get my crayon...
+(Vagrant)(Default)(255 255 255)(0.04)(1)The one up there? 
+(Vagrant)(Default)(255 255 255)(0.035)(1)Don't worry! I'll get it for you.
+
+//Spelas efter att vagrant hoppat upp på den första platformen
+#Tutorial01_02_gate
+(Vagrant)(Default)(255 255 255)(0.04)(1)Wait, the gate to this part is closed. 
+(Mage)(Default)(255 255 255)(0.035)(1)It is a solitary holding. 
+(Mage)(Default)(255 255 255)(0.035)(1)For the most troublesome prisoners. 
+(Mage)(Default)(255 255 255)(0.035)(1)But I know how to open it.
+(Mage)(Default)(255 255 255)(0.035)(1)I just have to stand on this pressure plate.
+
+//Spelas när vagrant tagit kritan
+#Tutorial01_03_chalk
+(Vagrant)(Default)(255 255 255)(0.035)(1.25)Got it! Quest completed. 
+(Vagrant)(Default)(255 255 255)(0.035)(1)And as every quest should have a reward, 
+(Vagrant)(Default)(255 255 255)(0.04)(1)I humbly suggest you let me out. 
+(Mage)(Default)(255 255 255)(0.1)(1)Hrmm. 
+(Mage)(Default)(255 255 255)(0.06)(1)Very well then. 
+(Mage)(Default)(255 255 255)(0.04)(1)I want my crayon after all. 
+(Mage)(Default)(255 255 255)(0.035)(1)And by my observations you do not seem very dangerous. 
+(Mage)(Default)(255 255 255)(0.04)(1.5)The lever over here opens the cell door.
+
+//spelas när dörren till vagrantens cell öppnats
+#Tutorial01_04_open
+(Vagrant)(Default)(255 255 255)(0.04)(1)From the bottom of my heart.
+(Vagrant)(Default)(255 255 255)(0.04)(1)Thank you. 
+(Vagrant)(Default)(255 255 255)(0.04)(1)Could you please show me the way out too? 
+(Mage)(Default)(255 255 255)(0.04)(1)Hrm, I suppose. 
+(Mage)(Default)(255 255 255)(0.04)(1.5)It would be pointless to let you out and then just leave you here. 
+(Vagrant)(Default)(255 255 255)(0.04)(1.5)We've got to light the brazier by the door to get it open, right?
+(Vagrant)(Default)(255 255 255)(0.04)(2.3)I saw the guards doing that when I was planning my daring escape a few days ago. 
+(Vagrant)(Default)(255 255 255)(0.04)(1)Now we just have to pry a torch from the wall and…-	
+(Mage)(Default)(255 255 255)(0.04)(1)Oh, do not worry about that.
+(Mage)(Default)(255 255 255)(0.04)(1) I can light it with my fireball spell. 
+(Mage)(Default)(255 255 255)(0.04)(1)It is far more fun.
+(Vagrant)(Default)(255 255 255)(0.05)(1)Wait a moment. You're a wizard??
+(Mage)(Default)(255 255 255)(0.05)(1)Yes, yes. I know three spells. 
+(Mage)(Default)(255 255 255)(0.05)(1)But this is the best one. 
+(Mage)(Default)(255 255 255)(0.05)(1.5)All I have to do is press the right mouse button to aim. 
+(Mage)(Default)(255 255 255)(0.05)(1.5)And then the left mouse button to make things burn.
+(Vagrant)(Default)(255 255 255)(0.05)(1.5)Just don't aim it at me…!
+
+

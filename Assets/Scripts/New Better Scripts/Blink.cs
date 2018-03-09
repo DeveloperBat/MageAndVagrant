@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Animator))]
-[RequireComponent(typeof(FindCharacter))]
+//[RequireComponent(typeof(FindCharacter))]
 [RequireComponent(typeof(Rigidbody2D))]
 [HelpURL("https://www.youtube.com/watch?v=dQw4w9WgXcQ")]
 public class Blink : MonoBehaviour {
@@ -33,6 +33,7 @@ public class Blink : MonoBehaviour {
     private float floatDuration;
     #endregion
 
+    LayerMask mask = ~(1 << 8);
 
     void Start ()
     {
@@ -58,12 +59,14 @@ public class Blink : MonoBehaviour {
             xDir = -1;
         }
 
-        if (Input.GetButtonDown(FindCharacter.FindPlayer(gameObject) + "Blink") && blinking == false && floating == false)
+        if (Input.GetButtonDown(FindCharacter.FindPlayer(gameObject) + "Blink") && blinking == false && floating == false || Input.GetAxis(FindCharacter.FindPlayer(gameObject) + "Blink") > 0 && blinking == false && floating == false)
         {
             StartCoroutine(BlinkAway());
             StartCoroutine(FloatAway());
    
         }
+
+
 
 
 
@@ -76,10 +79,11 @@ public class Blink : MonoBehaviour {
 
         blink.x = blink.x * xDir;
 
-        blinkRay = Physics2D.Raycast(transform.position, blink, distance, 8);
+        blinkRay = Physics2D.Raycast(transform.position, blink, distance, mask);
 
         if (blinkRay.collider != null)
         {
+            Debug.Log("Nuddar: " +  blinkRay.collider.name);
             if (blinkRay.collider.tag == "Wall") // Kan ändras beroende på vad man ska blinka igenom.
             {
                 float newvalueX = blinkRay.point.x - transform.position.x;

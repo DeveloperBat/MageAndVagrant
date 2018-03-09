@@ -181,14 +181,13 @@ GameObject:
   - component: {fileID: 114673071339845126}
   - component: {fileID: 114300772867803720}
   - component: {fileID: 114001303964417816}
-  - component: {fileID: 114147852064617064}
   m_Layer: 5
   m_Name: Pause Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &1900552751057858
 GameObject:
   m_ObjectHideFlags: 1
@@ -236,17 +235,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pausePanel: {fileID: 1365066477641918}
---- !u!114 &114147852064617064
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1784633652097622}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7ff63f71adfe8af4a9b031560942bc0f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114186296657784726
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -399,7 +387,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 114147852064617064}
+      - m_Target: {fileID: 0}
         m_MethodName: Load
         m_Mode: 1
         m_Arguments:
@@ -1066,7 +1054,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 114147852064617064}
+      - m_Target: {fileID: 0}
         m_MethodName: Save
         m_Mode: 1
         m_Arguments:

@@ -38,6 +38,7 @@ sysinfo.txt
 !Assets/[Ee]ditor/**/*.meta
 !Assets/Editor Default Resources/**/*.meta
 !Assets/[Gg]izmos/**/*.meta
+!Assets/Models/**/*.meta
 !Assets/Plugins/**/*.meta
 !Assets/[Pp]refabs/**/*.meta
 !Assets/[Rr]esources/**/*.meta

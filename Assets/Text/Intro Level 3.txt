@@ -1,0 +1,17 @@
+#Tutorial03_01_walljump + fire spell
+//When Louise is standing in front the spike traps and have the “wall opening” above her. 
+(Vagrant)(Default)(255 255 255)(0.035)(1) By pressing space when I am close to a wall.
+(Vagrant)(Default)(255 255 255)(0.035)(1)I can wall jump my way up there.  
+(Mage)(Default)(255 255 255)(0.035)(1)Great! Then I can scroll up my spell wheel,
+(Mage)(Default)(255 255 255)(0.035)(1)Change to my fire spell and aim my staff towards you.
+
+#Tutorial03_02_shieldreflect
+//When Louise is standing on one of the two platforms (to the left) where she is able to reflect the fire spell onto the brazier. 
+(Vagrant)(Default)(255 255 255)(0.035)(1)Smart! Then I will try reflecting it,
+(Vagrant)(Default)(255 255 255)(0.035)(1)Using my shield by pressing Q.
+(Vagrant)(Default)(255 255 255)(0.035)(1)Then aim towards the brazier using W and S.
+
+#Tutorial03_03_blink
+//Plays right after the brazier has been lit.
+(Mage)(Default)(255 255 255)(0.035)(1) Now that you have lit the brazier,
+(Mage)(Default)(255 255 255)(0.035)(1)I will blink through these spike traps by pressing ctrl.

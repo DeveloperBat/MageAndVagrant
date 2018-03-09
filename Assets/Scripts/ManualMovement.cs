@@ -153,6 +153,15 @@ public class ManualMovement : MonoBehaviour {
             }
         }
 
+        if (movementSpeed > maxMovementSpeed)
+        {
+            movementSpeed = maxMovementSpeed;
+        }
+        else if (movementSpeed < -maxMovementSpeed)
+        {
+            movementSpeed = -maxMovementSpeed;
+        }
+
         transform.position = new Vector3(transform.position.x + movementSpeed, _rigidBody.transform.position.y, _rigidBody.transform.position.z);
 
         /*if(Input.GetAxis(_axisNameHorizontal) > 0)
