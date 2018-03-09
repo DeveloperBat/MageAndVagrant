@@ -4,10 +4,16 @@ guid: fb17d782a137a0e458d353e6d3f30ec4
 folderAsset: yes
 timeCreated: 1520434480
 =======
+<<<<<<< HEAD
+guid: fb17d782a137a0e458d353e6d3f30ec4
+folderAsset: yes
+timeCreated: 1520434480
+=======
 guid: b6d8b7f2123249645a725f8a3b0f9622
 folderAsset: yes
 timeCreated: 1520523784
 >>>>>>> 73f0a6ff0ef1ce0beb7ed2fc33408905e6041b9c
+>>>>>>> fcba36bd117bdcd1407ff8697b1c02c116a23999
 licenseType: Free
 DefaultImporter:
   externalObjects: {}
