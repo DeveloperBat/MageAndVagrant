@@ -59,12 +59,14 @@ public class Blink : MonoBehaviour {
             xDir = -1;
         }
 
-        if (Input.GetButtonDown(FindCharacter.FindPlayer(gameObject) + "Blink") && blinking == false && floating == false)
+        if (Input.GetButtonDown(FindCharacter.FindPlayer(gameObject) + "Blink") && blinking == false && floating == false || Input.GetAxis(FindCharacter.FindPlayer(gameObject) + "Blink") > 0 && blinking == false && floating == false)
         {
             StartCoroutine(BlinkAway());
             StartCoroutine(FloatAway());
    
         }
+
+
 
 
 
