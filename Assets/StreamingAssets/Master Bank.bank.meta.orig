@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/StreamingAssets/Master Bank.bank.meta
+guid: d2eb90452ef48cb458f651d070993027
+timeCreated: 1520584810
+=======
+<<<<<<< HEAD:Assets/Plugins/GitHub.meta.orig.meta~HEAD.meta
+guid: 8cb66e9cf7c230a46884f5a637b8b955
+timeCreated: 1520583222
+=======
+guid: a80195bfd070233489e3a4dc6fab04b7
+timeCreated: 1520581852
+>>>>>>> dc5c55c968ef55a35f3a544bd616a8863047fea3:Assets/Plugins/GitHub.meta.orig.meta~HEAD.meta
+>>>>>>> d5ef6d9fa64f4c57eb0a786733aee770ffc5f75e:Assets/Plugins/GitHub.meta.orig.meta~HEAD.meta
+licenseType: Free
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

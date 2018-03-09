@@ -22,6 +22,6 @@
 (Vagrant)(Default)(255 255 255)(0.09)(0.8)My precious.
 (Mage)(Default)(255 255 255)(0.05)(0.8)Hrm. You really like this thing.
 (Mage)(Default)(255 255 255)(0.05)(0.8)Why?
-(Vagrant)(Default)(255 255 255)(0.05)(0.8)I’ll tell you on the way out.
-(Vagrant)(Default)(255 255 255)(0.05)(1.5)I’m getting this uneasy feeling something’s about to go wrong.
+(Vagrant)(Default)(255 255 255)(0.05)(0.8)I'll tell you on the way out.
+(Vagrant)(Default)(255 255 255)(0.05)(1.5)I'm getting this uneasy feeling something's about to go wrong.
 (Vagrant)(Default)(255 255 255)(0.05)(0.8)So I really want to get moving.
