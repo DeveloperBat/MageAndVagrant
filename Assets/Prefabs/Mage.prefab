@@ -102,7 +102,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!61 &61359324969535778
 BoxCollider2D:
@@ -186,9 +186,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 0
-  maxMovementSpeed: 10
-  acceleration: 10
-  deacceleration: 10
+  maxMovementSpeed: 1
+  acceleration: 3
+  deacceleration: 5
   jumpForce: 0
   fallGravity: 50
   violentVelocity: 50

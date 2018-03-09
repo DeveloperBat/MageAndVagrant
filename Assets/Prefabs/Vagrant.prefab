@@ -87,7 +87,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!61 &61100726608014408
 BoxCollider2D:
@@ -169,8 +169,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movementSpeed: 0
   maxMovementSpeed: 1
-  acceleration: 1
-  deacceleration: 1
+  acceleration: 3
+  deacceleration: 5
   jumpForce: 150
   fallGravity: 40
   violentVelocity: 175
@@ -214,7 +214,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1332555092052024}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2d064e4d203d66243a66983872792739, type: 3}
   m_Name: 
@@ -386,7 +386,7 @@ PlatformEffector2D:
   m_UseColliderMask: 1
   m_ColliderMask:
     serializedVersion: 2
-    m_Bits: 4294966527
+    m_Bits: 4294950143
   m_RotationalOffset: -90
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
