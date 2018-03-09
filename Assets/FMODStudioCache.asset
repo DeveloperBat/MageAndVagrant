@@ -47,9 +47,12 @@ MonoBehaviour:
   - {fileID: 114800337358102076}
   - {fileID: 114861113500507062}
   - {fileID: 114648223321567640}
+  - {fileID: 114027707205354614}
+  - {fileID: 114565812662698944}
+  - {fileID: 114833289996542226}
   MasterBankRef: {fileID: 114304899385104998}
   StringsBankRef: {fileID: 114012298892706572}
-  stringsBankWriteTime: 636561202999795237
+  stringsBankWriteTime: 636561204527873415
   cacheVersion: 2
 --- !u!114 &114012298892706572
 MonoBehaviour:
@@ -63,11 +66,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Path: Assets\Sounds\SFX_M&V\Build\Desktop\Master Bank.strings.bank
-  lastModified: 636561202999795237
+  lastModified: 636561204527873415
   LoadResult: 0
   FileSizes:
   - Name: Desktop
-    Value: 2300
+    Value: 2446
   Exists: 1
 --- !u!114 &114016061462895828
 MonoBehaviour:
@@ -105,6 +108,28 @@ MonoBehaviour:
   Path: event:/Wind_cast
   guid: 6ef5244b23a5874fb2d8247d159df7b6
   Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &114027707205354614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Objects/Elevator/elevator_stop
+  guid: 5520020c567edf4e986e85246d955cd6
+  Banks:
+  - {fileID: 114304899385104998}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -342,11 +367,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Path: C:\Users\fredr\Documents\GitHub\MageAndVagrant\Assets\Sounds\SFX_M&V\Build\Desktop\Master
     Bank.bank
-  lastModified: 636561202999750116
+  lastModified: 636561204527813313
   LoadResult: 0
   FileSizes:
   - Name: Desktop
-    Value: 2533120
+    Value: 2534880
   Exists: 1
 --- !u!114 &114305960276703364
 MonoBehaviour:
@@ -541,6 +566,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 500
+--- !u!114 &114565812662698944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Objects/Elevator/elevator_loop
+  guid: e2403fcfdc6f174789c736b34f80e615
+  Banks:
+  - {fileID: 114304899385104998}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &114630160561965058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -869,6 +916,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 3500
+--- !u!114 &114833289996542226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Objects/Elevator/elevator_start
+  guid: e975a0c4fd428247a66d0efddbdd8b23
+  Banks:
+  - {fileID: 114304899385104998}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &114839497810155006
 MonoBehaviour:
   m_ObjectHideFlags: 0
