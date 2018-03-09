@@ -38,6 +38,7 @@ sysinfo.txt
 !Assets/[Ee]ditor/**/*.meta
 !Assets/Editor Default Resources/**/*.meta
 !Assets/[Gg]izmos/**/*.meta
+!Assets/Models/**/*.meta
 !Assets/Plugins/**/*.meta
 !Assets/[Pp]refabs/**/*.meta
 !Assets/[Rr]esources/**/*.meta
@@ -51,3 +52,4 @@ sysinfo.txt
 #[mergetool "unityyamlmerge"]
 #    trustExitCode = false
 #    cmd = "C:/Program Files/Unity/Editor/Data/Tools/UnityYAMLMerge.exe" merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
+fmod.log

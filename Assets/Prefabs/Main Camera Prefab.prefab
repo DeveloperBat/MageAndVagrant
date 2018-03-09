@@ -39,8 +39,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1273775387416716}
-  m_LocalRotation: {x: 0.03489949, y: 0, z: 0, w: 0.99939084}
-  m_LocalPosition: {x: 13, y: 18, z: -35.55}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -88.47, y: 15.719999, z: -35.55}
   m_LocalScale: {x: 2, y: 2.0033, z: 1.0007447}
   m_Children: []
   m_Father: {fileID: 0}
@@ -112,18 +112,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4fa280a1ea0a75140ae19abbd560e534, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player1: {fileID: 1321322026462638, guid: 78a585d977b9ff74cbfc5646e535aa5a, type: 2}
-  player2: {fileID: 1332555092052024, guid: d029caac418c69141bb84286e9de9470, type: 2}
-  minSize: 10
-  maxSize: 80
+  player1: {fileID: 0}
+  player2: {fileID: 0}
+  minSize: 25
+  maxSize: 100
   minXPosition: -10
   minYPosition: 0
   boundsYAdjust: 1.6
   boundsXAdjust: 1
-  yDistanceMultiplier: 1
-  yDistanceTrigger: 1
+  yDistanceMultiplier: 1.8
+  yDistanceTrigger: 10
   smoothnessMovement: 0.1
-  smoothnessZoom: 0.5
+  smoothnessZoom: 0.3
   _maxYPosition: 0
 --- !u!114 &114471945397960854
 MonoBehaviour:

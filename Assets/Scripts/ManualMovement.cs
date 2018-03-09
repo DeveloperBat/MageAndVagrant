@@ -129,11 +129,11 @@ public class ManualMovement : MonoBehaviour {
     private void CharMove()
     {
         //Acceleration Code
-        if (Input.GetAxis(_axisNameHorizontal) < 0 && movementSpeed < maxMovementSpeed)
+        if (Input.GetAxis(_axisNameHorizontal) < 0)
         {
             movementSpeed = movementSpeed - acceleration * Time.deltaTime;
         }
-        else if (Input.GetAxis(_axisNameHorizontal) > 0 && movementSpeed > -maxMovementSpeed)
+        else if (Input.GetAxis(_axisNameHorizontal) > 0)
         {
             movementSpeed = movementSpeed + acceleration * Time.deltaTime;
         }
