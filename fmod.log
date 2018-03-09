@@ -9,10 +9,14 @@
 [LOG] SystemI::DSPCodecPoolRegister            : register codec pool for pool type 5
 [LOG] Thread::initThread                       : Init FMOD mixer thread. Priority: 3, Stack Size: 49152, Semaphore: No, Sleep Time: 0, Looping: Yes.
 <<<<<<< HEAD
+[LOG] AsyncManager::init                       : manager 00000000771A31E8 isAsync 1 updatePeriod 0.02
+=======
+<<<<<<< HEAD
 [LOG] AsyncManager::init                       : manager 00000000A07DAFB8 isAsync 1 updatePeriod 0.02
 =======
 [LOG] AsyncManager::init                       : manager 0000000088A0AC88 isAsync 1 updatePeriod 0.02
 >>>>>>> 778a7f7f55e33d4b3012094a43bb83379af99981
+>>>>>>> 00375e3ced62fdbc9e53acfb688b5bdd7f92eaa2
 [LOG] Thread::initThread                       : Init FMOD Studio update thread. Priority: 0, Stack Size: 65536, Semaphore: No, Sleep Time: 1, Looping: No.
 [LOG] AsyncManager::init                       : done
 [LOG] PlaybackSystem::init                     : 
