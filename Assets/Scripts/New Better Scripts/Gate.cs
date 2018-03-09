@@ -5,10 +5,9 @@ using UnityEngine;
 public class Gate : MonoBehaviour {
 
     public bool isOpen;
+    public bool liftOnOpen;
     public float liftHeight;
     public float liftSmooth;
-    public float openDelay;
-    public float closeDelay;
     public List<GameObject> triggers;
 
     private Collider2D _collider;
@@ -75,7 +74,10 @@ public class Gate : MonoBehaviour {
 
     private void Update()
     {
-        OpenGate();
+        if(liftOnOpen)
+        {
+            MoveGate();
+        }
     }
 
     private void ToggleGate()
@@ -84,7 +86,7 @@ public class Gate : MonoBehaviour {
         //_collider.enabled = !isOpen;
     }
 
-    private void OpenGate()
+    private void MoveGate()
     {
 
         if(isOpen)
