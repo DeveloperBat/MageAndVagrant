@@ -11,11 +11,48 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
   m_Name: FMODStudioCache
   m_EditorClassIdentifier: 
-  EditorBanks: []
-  EditorEvents: []
-  MasterBankRef: {fileID: 0}
-  StringsBankRef: {fileID: 0}
-  stringsBankWriteTime: 0
+  EditorBanks:
+  - {fileID: 114450714766836498}
+  - {fileID: 114509533816997346}
+  EditorEvents:
+  - {fileID: 114309356723648120}
+  - {fileID: 114632556866945328}
+  - {fileID: 114720054825458164}
+  - {fileID: 114143330145921170}
+  - {fileID: 114039873769734170}
+  - {fileID: 114726534282038450}
+  - {fileID: 114974300321855974}
+  - {fileID: 114013270687063960}
+  - {fileID: 114736282589653850}
+  - {fileID: 114311859143592692}
+  - {fileID: 114589340636532538}
+  - {fileID: 114158866493944444}
+  - {fileID: 114221674465942458}
+  - {fileID: 114446621860530274}
+  - {fileID: 114915067026959132}
+  - {fileID: 114573052002940038}
+  - {fileID: 114592499715640572}
+  - {fileID: 114997865738662156}
+  - {fileID: 114671001593234212}
+  - {fileID: 114248721221140598}
+  - {fileID: 114948352167908742}
+  - {fileID: 114280637271144296}
+  - {fileID: 114945132502472574}
+  - {fileID: 114946813917157796}
+  - {fileID: 114528686834504220}
+  - {fileID: 114981535577103570}
+  - {fileID: 114844813349317966}
+  - {fileID: 114535576071579962}
+  - {fileID: 114293255666793360}
+  - {fileID: 114494038981716630}
+  - {fileID: 114813724803917586}
+  - {fileID: 114147253476731210}
+  - {fileID: 114788718111584330}
+  - {fileID: 114205193628453242}
+  - {fileID: 114378016250210052}
+  MasterBankRef: {fileID: 114509533816997346}
+  StringsBankRef: {fileID: 114450714766836498}
+  stringsBankWriteTime: 636561221440412504
   cacheVersion: 2
 --- !u!114 &114002347415547204
 MonoBehaviour:
@@ -57,6 +94,28 @@ MonoBehaviour:
   - Name: Desktop
     Value: 2446
   Exists: 1
+--- !u!114 &114013270687063960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Vagrant/Voice/emotion_negative
+  guid: 3d90bc2ff2b1534ba2671d40af8c744e
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1500
 --- !u!114 &114016061462895828
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -142,6 +201,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 875
+--- !u!114 &114039873769734170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Wind Spell/wind_charge
+  guid: 1697291ed579f14c8a22f6fd9ff404a0
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &114058482018462450
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -684,6 +765,50 @@ MonoBehaviour:
   - Name: Desktop
     Value: 3374336
   Exists: 1
+--- !u!114 &114143330145921170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Vagrant/Movement/vagrant_footsteps
+  guid: 0a8499bc1b78ab4f9c262bee04ac2519
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 260
+--- !u!114 &114147253476731210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Voice/emotion_neutral
+  guid: f71de29cfdf523489951c18d313ba153
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3500
 --- !u!114 &114148030925758474
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -705,6 +830,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 2459
+--- !u!114 &114158866493944444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Objects/Ballista Trap/ballista_shoot
+  guid: 585498a016494648bc6ff7683fb90b38
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1506
 --- !u!114 &114160779446525248
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -746,6 +893,28 @@ MonoBehaviour:
   - Name: Desktop
     Value: 2534880
   Exists: 1
+--- !u!114 &114205193628453242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Fire Spell/fire_impact
+  guid: fad0c82af723fc4e9cbe87144ed2dfc9
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 750
 --- !u!114 &114210629014595184
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -811,6 +980,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1506
+--- !u!114 &114221674465942458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Menu/Buttons/button_click_1
+  guid: 59bd0e056450344097d28cc925d56636
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1000
 --- !u!114 &114231868335072592
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -854,6 +1045,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 2459
+--- !u!114 &114248721221140598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Fire Spell/fire_charge
+  guid: 8f0af999a3b50c488ec1fac1088419e3
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 8186
 --- !u!114 &114249762346874866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -941,6 +1154,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 500
+--- !u!114 &114280637271144296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Vagrant/Movement/vagrant_slide
+  guid: a940e76a0ba2694fbb71afafc8f10d4a
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1875
 --- !u!114 &114288479836108676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -963,6 +1198,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1257
+--- !u!114 &114293255666793360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Wind Spell/wind_impact
+  guid: df013900eef1dd44b2bc88391d865d2b
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1140
 --- !u!114 &114304317170840132
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1025,6 +1282,50 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1000
+--- !u!114 &114309356723648120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Objects/Ballista Trap/ballista_draw
+  guid: 009fc11a13e72d4e8a46d289532d6cd5
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2459
+--- !u!114 &114311859143592692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Vagrant/Movement/vagrant_jump
+  guid: 532d86d3ef11f042a7ed24c261838fd0
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 761
 --- !u!114 &114316903712972812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1145,6 +1446,28 @@ MonoBehaviour:
   Path: event:/Vagrant/Voice/emotion_negative
   guid: 3d90bc2ff2b1534ba2671d40af8c744e
   Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1500
+--- !u!114 &114378016250210052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Voice/emotion_negative
+  guid: fca38278f953bc49b37c35994170c18c
+  Banks:
+  - {fileID: 114509533816997346}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -1306,6 +1629,46 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1500
+--- !u!114 &114446621860530274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Fire Spell/fire_cast
+  guid: 5ea4763f7936624d86fba838aaff3ad8
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1966
+--- !u!114 &114450714766836498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: Assets\Sounds\SFX_M&V\Build\Desktop\Master Bank.strings.bank
+  lastModified: 636561221440412504
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 2446
+  Exists: 1
 --- !u!114 &114451243788406698
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1436,6 +1799,47 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1000
+--- !u!114 &114494038981716630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Objects/Elevator/elevator_loop
+  guid: e2403fcfdc6f174789c736b34f80e615
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &114509533816997346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: "C:\\Users\\Hampus \xD6sterlund\\Documents\\Unity\\MageAndVagrant\\Assets\\Sounds\\SFX_M&V\\Build\\Desktop\\Master
+    Bank.bank"
+  lastModified: 636561221440362367
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 2534880
+  Exists: 1
 --- !u!114 &114515467842404674
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1480,6 +1884,50 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 4000
+--- !u!114 &114528686834504220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Vagrant/Voice/emotion_positive
+  guid: b68f5e32c5b26f4db975728fee17447e
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1125
+--- !u!114 &114535576071579962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Vagrant/Voice/emotion_neutral
+  guid: dd1b1d8554e49f489e2cb038641936ff
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 875
 --- !u!114 &114542963759606464
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1609,6 +2057,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 500
+--- !u!114 &114573052002940038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Fire Spell/fire_loop
+  guid: 706bd2adf7796b44b6e674fbb899a877
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4093
 --- !u!114 &114574904399659864
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1675,6 +2145,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 0
+--- !u!114 &114589340636532538
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Objects/Elevator/elevator_stop
+  guid: 5520020c567edf4e986e85246d955cd6
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &114589976089075360
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1697,6 +2189,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1506
+--- !u!114 &114592499715640572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Vagrant/Shield/shield_reflect
+  guid: 75fb875a12021a408bdf61545b5cfac3
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2023
 --- !u!114 &114600171134513680
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1740,6 +2254,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1875
+--- !u!114 &114632556866945328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Menu/Buttons/button_hover_1
+  guid: 017da88e62b2924daa75b79012c1adc6
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 500
 --- !u!114 &114633092449962338
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1975,6 +2511,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 2250
+--- !u!114 &114671001593234212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Objects/Torch/torch_loop
+  guid: 8757c4d443cf904b8ffae4f9f74004a0
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 8110
 --- !u!114 &114675776450161700
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2171,6 +2729,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 2000
+--- !u!114 &114720054825458164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Objects/Ballista Trap/ballista_impact
+  guid: 096144745645bb479272a0a845072f05
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2459
 --- !u!114 &114723768484821976
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2210,6 +2790,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 4000
+--- !u!114 &114726534282038450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Objects/Torch/torch_ignite
+  guid: 1c2840e02df3d842b1087027813cd8b5
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2250
 --- !u!114 &114729119237172836
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2232,6 +2834,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 8110
+--- !u!114 &114736282589653850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Voice/emotion_sad
+  guid: 5303cba0499cb948ad7c9384fccb0268
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2000
 --- !u!114 &114751825377481096
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2383,6 +3007,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1140
+--- !u!114 &114788718111584330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Menu/Buttons/button_start_1
+  guid: f9dff8431eade94b8b48e49c921cd8c7
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1125
 --- !u!114 &114791393440297236
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2600,6 +3246,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1500
+--- !u!114 &114813724803917586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Objects/Elevator/elevator_start
+  guid: e975a0c4fd428247a66d0efddbdd8b23
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &114817513970371696
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2728,6 +3396,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1966
+--- !u!114 &114844813349317966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Voice/emotion_positive
+  guid: bdce3d58a31ba54ca76da7f1a95f0ed1
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1257
 --- !u!114 &114850708330055912
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2967,6 +3657,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1140
+--- !u!114 &114915067026959132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Wind Spell/wind_cast
+  guid: 6ef5244b23a5874fb2d8247d159df7b6
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2000
 --- !u!114 &114919204907498618
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3098,6 +3810,72 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 8186
+--- !u!114 &114945132502472574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Ambience/ambience_dungeon
+  guid: adbd9f8a7bc76541baefb551e7cb7f25
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4296
+--- !u!114 &114946813917157796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Movement/mage_footsteps
+  guid: b5d6f6b41e01f84187260fed02c4811e
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 268
+--- !u!114 &114948352167908742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Vagrant/Voice/emotion_sad
+  guid: a5b0884773eca643a6fda0e1a99bfd7e
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1710
 --- !u!114 &114949201249918436
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3186,6 +3964,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 3500
+--- !u!114 &114974300321855974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Vagrant/Shield/shield_equip
+  guid: 1d82b7d7a0e9e24d93df7b84d42b291c
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2589
 --- !u!114 &114976580735453848
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3252,6 +4052,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 2023
+--- !u!114 &114981535577103570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/World/Ambience/ambience_effects
+  guid: ba090e36983d2b4bad3450fce27596b1
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 156049
 --- !u!114 &114984726722659558
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3339,6 +4161,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 3500
+--- !u!114 &114997865738662156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Mage/Wind Spell/wind_loop
+  guid: 78d8399a3dd17e4189ad5719f705d258
+  Banks:
+  - {fileID: 114509533816997346}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4000
 --- !u!114 &114998810315349318
 MonoBehaviour:
   m_ObjectHideFlags: 0

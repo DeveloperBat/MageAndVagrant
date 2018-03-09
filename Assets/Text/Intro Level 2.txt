@@ -1,0 +1,27 @@
+//Ska spelas direkt I början av tutorial 2 (storage rummet).
+#Tutorial02_01_storage
+(Mage)(Default)(255 255 255)(0.05)(0.8)Oooh.
+(Mage)(Default)(255 255 255)(0.05)(1.5)There are so many shiny things. More than I knew existed in the entirety of existence. 
+(Mage)(Default)(255 255 255)(0.05)(1)I want to nab them all for my interesting-things-collection.
+(Mage)(Default)(255 255 255)(0.05)(0.8)The guards never allowed me to go in here before.
+(Vagrant)(Default)(255 255 255)(0.05)(0.8)I can imagine.
+(Vagrant)(Default)(255 255 255)(0.05)(0.8)But for me the only thing that matters is my gauntlet.
+(Vagrant)(Default)(255 255 255)(0.05)(0.8)You had some other spells, right?
+(Vagrant)(Default)(255 255 255)(0.05)(0.8)Got anything that can get me up there?
+(Mage)(Default)(255 255 255)(0.05)(0.8)I have a wind spell. 
+(Mage)(Default)(255 255 255)(0.05)(0.8)And I can choose it by using the scroll wheel. 
+(Mage)(Default)(255 255 255)(0.05)(0.8)Normally I use it to help with sweeping the floors.
+(Mage)(Default)(255 255 255)(0.05)(0.8)Maybe it can sweep you into the air.
+
+//Ska spelas efter att de löst pusslet och Vagrant tagit gauntlet
+#Tutorial02_02_gauntlet
+(Vagrant)(Default)(255 255 255)(0.05)(0.8)Yes!
+(Vagrant)(Default)(255 255 255)(0.05)(0.8)You are finally with me again.
+(Vagrant)(Default)(255 255 255)(0.01)(0.8)My dear compass.
+(Vagrant)(Default)(255 255 255)(0.01)(0.8)My trusted shield.
+(Vagrant)(Default)(255 255 255)(0.09)(0.8)My precious.
+(Mage)(Default)(255 255 255)(0.05)(0.8)Hrm. You really like this thing.
+(Mage)(Default)(255 255 255)(0.05)(0.8)Why?
+(Vagrant)(Default)(255 255 255)(0.05)(0.8)I’ll tell you on the way out.
+(Vagrant)(Default)(255 255 255)(0.05)(1.5)I’m getting this uneasy feeling something’s about to go wrong.
+(Vagrant)(Default)(255 255 255)(0.05)(0.8)So I really want to get moving.

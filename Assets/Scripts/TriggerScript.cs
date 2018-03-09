@@ -9,7 +9,7 @@ public class TriggerScript : MonoBehaviour {
     
     void Start()
     {
-        ds = GameObject.Find("").GetComponent<DialogueSystem>();
+        ds = GameObject.Find("Dialogue Canvas").GetComponent<DialogueSystem>();
     }
 
     void OnTriggerEnter2D()
